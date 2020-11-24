@@ -16,7 +16,7 @@ RaumID;DislozierungID;Kurzbezeichnung;Bezeichnung;Code;UPISBez
 15;NULL;E15;WC-H;E;NULL
 16;NULL;E16;WC-B;E;NULL
 17;NULL;E18;Abstellkammer;E;NULL
-18;NULL;E19;Reiniungsger‰te;E;NULL
+18;NULL;E19;Reiniungsger√§te;E;NULL
 19;NULL;E20;WC-D;E;NULL
 20;NULL;E22;5AHE;E;E22
 21;NULL;E23;1AHE;E;E23
@@ -29,13 +29,13 @@ RaumID;DislozierungID;Kurzbezeichnung;Bezeichnung;Code;UPISBez
 28;NULL;E33;Lichtpausen;E;NULL
 29;NULL;E34;Gang;E;NULL
 30;NULL;E35;Kanzlei;E;NULL
-31;NULL;E36;Rechnungsf¸hrer;E;NULL
+31;NULL;E36;Rechnungsf√ºhrer;E;NULL
 32;NULL;E37;Direktion;E;NULL
 33;NULL;E38;AV;E;NULL
 34;NULL;E39;Lehrerzimmer;E;NULL
 35;NULL;E40;Archiv;E;NULL
 36;NULL;E41;Archiv;E;NULL
-37;NULL;E42;K¸che;E;NULL
+37;NULL;E42;K√ºche;E;NULL
 38;NULL;E43;WC-D;E;NULL
 39;NULL;E45;WR-H;E;NULL
 40;NULL;E46;WC-H;E;NULL
@@ -139,7 +139,7 @@ RaumID;DislozierungID;Kurzbezeichnung;Bezeichnung;Code;UPISBez
 138;NULL;T11;Lehrerzimmer;T;NULL
 139;NULL;T13;WC;T;NULL
 140;NULL;T14;Dusche;T;NULL
-141;NULL;T15;Ger‰teraum;T;NULL
+141;NULL;T15;Ger√§teraum;T;NULL
 142;NULL;T16;Turnsaal HTBLA;T;T16
 143;NULL;T17;Lehrerzimmer;T;NULL
 144;NULL;T18;Garage;T;NULL
@@ -161,7 +161,7 @@ RaumID;DislozierungID;Kurzbezeichnung;Bezeichnung;Code;UPISBez
 160;NULL;U71;LABOR;U1;U71
 161;NULL;U72;LABOR;U1;U72
 162;NULL;U73;LABOR;U1;U73
-163;NULL;U74;Werkst. Ger‰tebau;U1;U74
+163;NULL;U74;Werkst. Ger√§tebau;U1;U74
 164;NULL;U76;Werkstatt;U1;NULL
 165;NULL;U75;Dunkelkammer;U1;NULL
 166;NULL;U77;Werkstatt;U;NULL
@@ -178,7 +178,7 @@ RaumID;DislozierungID;Kurzbezeichnung;Bezeichnung;Code;UPISBez
 177;NULL;U88;Werkst. Blechbearb.;U;U88
 178;NULL;U89;Werkst. Grundlagen;U;U89
 179;NULL;U90;Lager;U;NULL
-180;NULL;U91;Werkst‰ttenleiter;U;NULL
+180;NULL;U91;Werkst√§ttenleiter;U;NULL
 181;NULL;U92;Lehrerzimmer;U;NULL
 182;NULL;E58;CTV;E;E58-2
 183;NULL;NULL;Turnsaal Doppl;T;Tdopp

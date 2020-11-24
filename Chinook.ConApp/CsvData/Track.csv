@@ -63,17 +63,17 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 62;Real Thing;7;1;1;Jerry Cantrell, Layne Staley;243879;7937731;0,99
 63;Desafinado;8;1;2;NULL;185338;5990473;0,99
 64;Garota De Ipanema;8;1;2;NULL;285048;9348428;0,99
-65;Samba De Uma Nota SÛ (One Note Samba);8;1;2;NULL;137273;4535401;0,99
-66;Por Causa De VocÍ;8;1;2;NULL;169900;5536496;0,99
+65;Samba De Uma Nota S√≥ (One Note Samba);8;1;2;NULL;137273;4535401;0,99
+66;Por Causa De Voc√™;8;1;2;NULL;169900;5536496;0,99
 67;Ligia;8;1;2;NULL;251977;8226934;0,99
 68;Fotografia;8;1;2;NULL;129227;4198774;0,99
 69;Dindi (Dindi);8;1;2;NULL;253178;8149148;0,99
-70;Se Todos Fossem Iguais A VocÍ (Instrumental);8;1;2;NULL;134948;4393377;0,99
+70;Se Todos Fossem Iguais A Voc√™ (Instrumental);8;1;2;NULL;134948;4393377;0,99
 71;Falando De Amor;8;1;2;NULL;219663;7121735;0,99
 72;Angela;8;1;2;NULL;169508;5574957;0,99
 73;Corcovado (Quiet Nights Of Quiet Stars);8;1;2;NULL;205662;6687994;0,99
 74;Outra Vez;8;1;2;NULL;126511;4110053;0,99
-75;O Boto (BÙto);8;1;2;NULL;366837;12089673;0,99
+75;O Boto (B√¥to);8;1;2;NULL;366837;12089673;0,99
 76;Canta, Canta Mais;8;1;2;NULL;271856;8719426;0,99
 77;Enter Sandman;9;1;3;Apocalyptica;221701;7286305;0,99
 78;Master Of Puppets;9;1;3;Apocalyptica;436453;14375310;0,99
@@ -110,7 +110,7 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 109;#1 Zero;11;1;4;Cornell, Commerford, Morello, Wilk;299102;9731988;0,99
 110;The Curse;11;1;4;Cornell, Commerford, Morello, Wilk;309786;10029406;0,99
 111;Money;12;1;5;Berry Gordy, Jr./Janie Bradford;147591;2365897;0,99
-112;Long Tall Sally;12;1;5;"Enotris Johnson/Little Richard/Robert ""Bumps"" Blackwell";106396;1707084;0,99
+112;Long Tall Sally;12;1;5;Enotris Johnson/Little Richard/Robert Bumps Blackwell;106396;1707084;0,99
 113;Bad Boy;12;1;5;Larry Williams;116088;1862126;0,99
 114;Twist And Shout;12;1;5;Bert Russell/Phil Medley;161123;2582553;0,99
 115;Please Mr. Postman;12;1;5;Brian Holland/Freddie Gorman/Georgia Dobbins/Robert Bateman/William Garrett;137639;2206986;0,99
@@ -123,7 +123,7 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 122;20 Flight Rock;12;1;5;Ned Fairchild;107807;1299960;0,99
 123;Quadrant;13;1;2;Billy Cobham;261851;8538199;0,99
 124;Snoopy's search-Red baron;13;1;2;Billy Cobham;456071;15075616;0,99
-125;"Spanish moss-""A sound portrait""-Spanish moss";13;1;2;Billy Cobham;248084;8217867;0,99
+125;Spanish moss-A sound portrait-Spanish moss;13;1;2;Billy Cobham;248084;8217867;0,99
 126;Moon germs;13;1;2;Billy Cobham;294060;9714812;0,99
 127;Stratus;13;1;2;Billy Cobham;582086;19115680;0,99
 128;The pleasant pheasant;13;1;2;Billy Cobham;318066;10630578;0,99
@@ -203,70 +203,70 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 202;My Time After Awhile;20;1;6;Robert Geddins/Ron Badger/Sheldon Feinberg;182491;6022698;0,99
 203;Too Many Ways (Alternate);20;1;6;Willie Dixon;135053;4459946;0,99
 204;Talkin' 'Bout Women Obviously;20;1;6;Amos Blakemore/Buddy Guy;589531;19161377;0,99
-205;Jorge Da CapadÛcia;21;1;7;Jorge Ben;177397;5842196;0,99
+205;Jorge Da Capad√≥cia;21;1;7;Jorge Ben;177397;5842196;0,99
 206;Prenda Minha;21;1;7;Tradicional;99369;3225364;0,99
-207;MeditaÁ„o;21;1;7;Tom Jobim - Newton MendoÁa;148793;4865597;0,99
+207;Medita√ß√£o;21;1;7;Tom Jobim - Newton Mendo√ßa;148793;4865597;0,99
 208;Terra;21;1;7;Caetano Veloso;482429;15889054;0,99
 209;Eclipse Oculto;21;1;7;Caetano Veloso;221936;7382703;0,99
-210;"Texto ""Verdade Tropical""";21;1;7;Caetano Veloso;84088;2752161;0,99
+210;Texto Verdade Tropical;21;1;7;Caetano Veloso;84088;2752161;0,99
 211;Bem Devagar;21;1;7;Gilberto Gil;133172;4333651;0,99
-212;Dr„o;21;1;7;Gilberto Gil;156264;5065932;0,99
+212;Dr√£o;21;1;7;Gilberto Gil;156264;5065932;0,99
 213;Saudosismo;21;1;7;Caetano Veloso;144326;4726981;0,99
 214;Carolina;21;1;7;Chico Buarque;181812;5924159;0,99
 215;Sozinho;21;1;7;Peninha;190589;6253200;0,99
 216;Esse Cara;21;1;7;Caetano Veloso;223111;7217126;0,99
-217;Mel;21;1;7;Caetano Veloso - Waly Salom„o;294765;9854062;0,99
+217;Mel;21;1;7;Caetano Veloso - Waly Salom√£o;294765;9854062;0,99
 218;Linha Do Equador;21;1;7;Caetano Veloso - Djavan;299337;10003747;0,99
 219;Odara;21;1;7;Caetano Veloso;141270;4704104;0,99
 220;A Luz De Tieta;21;1;7;Caetano Veloso;251742;8507446;0,99
-221;Atr·s Da Verd-E-Rosa SÛ N„o Vai Quem J· Morreu;21;1;7;David CorrÍa - Paulinho Carvalho - Carlos Sena - Bira do Ponto;307252;10364247;0,99
+221;Atr√°s Da Verd-E-Rosa S√≥ N√£o Vai Quem J√° Morreu;21;1;7;David Corr√™a - Paulinho Carvalho - Carlos Sena - Bira do Ponto;307252;10364247;0,99
 222;Vida Boa;21;1;7;Fausto Nilo - Armandinho;281730;9411272;0,99
 223;Sozinho (Hitmakers Classic Mix);22;1;7;NULL;436636;14462072;0,99
 224;Sozinho (Hitmakers Classic Radio Edit);22;1;7;NULL;195004;6455134;0,99
-225;Sozinho (CaÍdrum 'n' Bass);22;1;7;NULL;328071;10975007;0,99
+225;Sozinho (Ca√™drum 'n' Bass);22;1;7;NULL;328071;10975007;0,99
 226;Carolina;23;1;7;NULL;163056;5375395;0,99
-227;Essa MoÁa Ta Diferente;23;1;7;NULL;167235;5568574;0,99
+227;Essa Mo√ßa Ta Diferente;23;1;7;NULL;167235;5568574;0,99
 228;Vai Passar;23;1;7;NULL;369763;12359161;0,99
 229;Samba De Orly;23;1;7;NULL;162429;5431854;0,99
 230;Bye, Bye Brasil;23;1;7;NULL;283402;9499590;0,99
 231;Atras Da Porta;23;1;7;NULL;189675;6132843;0,99
 232;Tatuagem;23;1;7;NULL;172120;5645703;0,99
-233;O Que Ser· (¿ Flor Da Terra);23;1;7;NULL;167288;5574848;0,99
+233;O Que Ser√° (√Ä Flor Da Terra);23;1;7;NULL;167288;5574848;0,99
 234;Morena De Angola;23;1;7;NULL;186801;6373932;0,99
-235;Apesar De VocÍ;23;1;7;NULL;234501;7886937;0,99
+235;Apesar De Voc√™;23;1;7;NULL;234501;7886937;0,99
 236;A Banda;23;1;7;NULL;132493;4349539;0,99
 237;Minha Historia;23;1;7;NULL;182256;6029673;0,99
-238;Com AÁ˙car E Com Afeto;23;1;7;NULL;175386;5846442;0,99
+238;Com A√ß√∫car E Com Afeto;23;1;7;NULL;175386;5846442;0,99
 239;Brejo Da Cruz;23;1;7;NULL;214099;7270749;0,99
 240;Meu Caro Amigo;23;1;7;NULL;260257;8778172;0,99
 241;Geni E O Zepelim;23;1;7;NULL;317570;10342226;0,99
-242;Trocando Em Mi˙dos;23;1;7;NULL;169717;5461468;0,99
+242;Trocando Em Mi√∫dos;23;1;7;NULL;169717;5461468;0,99
 243;Vai Trabalhar Vagabundo;23;1;7;NULL;139154;4693941;0,99
-244;Gota D'·gua;23;1;7;NULL;153208;5074189;0,99
-245;ConstruÁ„o / Deus Lhe Pague;23;1;7;NULL;383059;12675305;0,99
+244;Gota D'√°gua;23;1;7;NULL;153208;5074189;0,99
+245;Constru√ß√£o / Deus Lhe Pague;23;1;7;NULL;383059;12675305;0,99
 246;Mateus Enter;24;1;7;Chico Science;33149;1103013;0,99
-247;O Cidad„o Do Mundo;24;1;7;Chico Science;200933;6724966;0,99
+247;O Cidad√£o Do Mundo;24;1;7;Chico Science;200933;6724966;0,99
 248;Etnia;24;1;7;Chico Science;152555;5061413;0,99
 249;Quilombo Groove [Instrumental];24;1;7;Chico Science;151823;5042447;0,99
-250;MacÙ;24;1;7;Chico Science;249600;8253934;0,99
+250;Mac√¥;24;1;7;Chico Science;249600;8253934;0,99
 251;Um Passeio No Mundo Livre;24;1;7;Chico Science;240091;7984291;0,99
 252;Samba Do Lado;24;1;7;Chico Science;227317;7541688;0,99
-253;Maracatu AtÙmico;24;1;7;Chico Science;284264;9670057;0,99
-254;O Encontro De Isaac Asimov Com Santos Dumont No CÈu;24;1;7;Chico Science;99108;3240816;0,99
+253;Maracatu At√¥mico;24;1;7;Chico Science;284264;9670057;0,99
+254;O Encontro De Isaac Asimov Com Santos Dumont No C√©u;24;1;7;Chico Science;99108;3240816;0,99
 255;Corpo De Lama;24;1;7;Chico Science;232672;7714954;0,99
 256;Sobremesa;24;1;7;Chico Science;240091;7960868;0,99
 257;Manguetown;24;1;7;Chico Science;194560;6475159;0,99
-258;Um SatÈlite Na CabeÁa;24;1;7;Chico Science;126615;4272821;0,99
-259;Bai„o Ambiental [Instrumental];24;1;7;Chico Science;152659;5198539;0,99
+258;Um Sat√©lite Na Cabe√ßa;24;1;7;Chico Science;126615;4272821;0,99
+259;Bai√£o Ambiental [Instrumental];24;1;7;Chico Science;152659;5198539;0,99
 260;Sangue De Bairro;24;1;7;Chico Science;132231;4415557;0,99
 261;Enquanto O Mundo Explode;24;1;7;Chico Science;88764;2968650;0,99
 262;Interlude Zumbi;24;1;7;Chico Science;71627;2408550;0,99
-263;CrianÁa De Domingo;24;1;7;Chico Science;208222;6984813;0,99
+263;Crian√ßa De Domingo;24;1;7;Chico Science;208222;6984813;0,99
 264;Amor De Muito;24;1;7;Chico Science;175333;5881293;0,99
 265;Samidarish [Instrumental];24;1;7;Chico Science;272431;8911641;0,99
-266;Maracatu AtÙmico [Atomic Version];24;1;7;Chico Science;273084;9019677;0,99
-267;Maracatu AtÙmico [Ragga Mix];24;1;7;Chico Science;210155;6986421;0,99
-268;Maracatu AtÙmico [Trip Hop];24;1;7;Chico Science;221492;7380787;0,99
+266;Maracatu At√¥mico [Atomic Version];24;1;7;Chico Science;273084;9019677;0,99
+267;Maracatu At√¥mico [Ragga Mix];24;1;7;Chico Science;210155;6986421;0,99
+268;Maracatu At√¥mico [Trip Hop];24;1;7;Chico Science;221492;7380787;0,99
 269;Banditismo Por Uma Questa;25;1;7;NULL;307095;10251097;0,99
 270;Banditismo Por Uma Questa;25;1;7;NULL;243644;8147224;0,99
 271;Rios Pontes & Overdrives;25;1;7;NULL;286720;9659152;0,99
@@ -280,25 +280,25 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 279;Risoflora;25;1;7;NULL;105586;3536938;0,99
 280;Lixo Do Mangue;25;1;7;NULL;193253;6534200;0,99
 281;Computadores Fazem Arte;25;1;7;NULL;404323;13702771;0,99
-282;Girassol;26;1;8;Bino Farias/Da Gama/Laz„o/Pedro Luis/Toni Garrido;249808;8327676;0,99
+282;Girassol;26;1;8;Bino Farias/Da Gama/Laz√£o/Pedro Luis/Toni Garrido;249808;8327676;0,99
 283;A Sombra Da Maldade;26;1;8;Da Gama/Toni Garrido;230922;7697230;0,99
 284;Johnny B. Goode;26;1;8;Chuck Berry;254615;8505985;0,99
 285;Soldado Da Paz;26;1;8;Herbert Vianna;194220;6455080;0,99
-286;Firmamento;26;1;8;Bino Farias/Da Gama/Henry Lawes/Laz„o/Toni Garrido/Winston Foser-Vers;222145;7402658;0,99
+286;Firmamento;26;1;8;Bino Farias/Da Gama/Henry Lawes/Laz√£o/Toni Garrido/Winston Foser-Vers;222145;7402658;0,99
 287;Extra;26;1;8;Gilberto Gil;304352;10078050;0,99
-288;O ErÍ;26;1;8;Bernardo Vilhena/Bino Farias/Da Gama/Laz„o/Toni Garrido;236382;7866924;0,99
-289;Podes Crer;26;1;8;Bino Farias/Da Gama/Laz„o/Toni Garrido;232280;7747747;0,99
-290;A Estrada;26;1;8;Bino Farias/Da Gama/Laz„o/Toni Garrido;248842;8275673;0,99
+288;O Er√™;26;1;8;Bernardo Vilhena/Bino Farias/Da Gama/Laz√£o/Toni Garrido;236382;7866924;0,99
+289;Podes Crer;26;1;8;Bino Farias/Da Gama/Laz√£o/Toni Garrido;232280;7747747;0,99
+290;A Estrada;26;1;8;Bino Farias/Da Gama/Laz√£o/Toni Garrido;248842;8275673;0,99
 291;Berlim;26;1;8;Da Gama/Toni Garrido;207542;6920424;0,99
-292;J· Foi;26;1;8;Bino Farias/Da Gama/Laz„o/Toni Garrido;221544;7388466;0,99
-293;Onde VocÍ Mora?;26;1;8;Marisa Monte/Nando Reis;256026;8502588;0,99
-294;Pensamento;26;1;8;Bino Farias/Da Gamma/Laz„o/R·s Bernard;173008;5748424;0,99
-295;ConciliaÁ„o;26;1;8;Da Gama/Laz„o/R·s Bernardo;257619;8552474;0,99
-296;Realidade Virtual;26;1;8;Bino Farias/Da Gama/Laz„o/Toni Garrido;195239;6503533;0,99
-297;Mensagem;26;1;8;Bino Farias/Da Gama/Laz„o/R·s Bernardo;225332;7488852;0,99
-298;A Cor Do Sol;26;1;8;Bernardo Vilhena/Da Gama/Laz„o;231392;7663348;0,99
-299;Onde VocÍ Mora?;27;1;8;Marisa Monte/Nando Reis;298396;10056970;0,99
-300;O ErÍ;27;1;8;Bernardo Vilhena/Bino/Da Gama/Lazao/Toni Garrido;206942;6950332;0,99
+292;J√° Foi;26;1;8;Bino Farias/Da Gama/Laz√£o/Toni Garrido;221544;7388466;0,99
+293;Onde Voc√™ Mora?;26;1;8;Marisa Monte/Nando Reis;256026;8502588;0,99
+294;Pensamento;26;1;8;Bino Farias/Da Gamma/Laz√£o/R√°s Bernard;173008;5748424;0,99
+295;Concilia√ß√£o;26;1;8;Da Gama/Laz√£o/R√°s Bernardo;257619;8552474;0,99
+296;Realidade Virtual;26;1;8;Bino Farias/Da Gama/Laz√£o/Toni Garrido;195239;6503533;0,99
+297;Mensagem;26;1;8;Bino Farias/Da Gama/Laz√£o/R√°s Bernardo;225332;7488852;0,99
+298;A Cor Do Sol;26;1;8;Bernardo Vilhena/Da Gama/Laz√£o;231392;7663348;0,99
+299;Onde Voc√™ Mora?;27;1;8;Marisa Monte/Nando Reis;298396;10056970;0,99
+300;O Er√™;27;1;8;Bernardo Vilhena/Bino/Da Gama/Lazao/Toni Garrido;206942;6950332;0,99
 301;A Sombra Da Maldade;27;1;8;Da Gama/Toni Garrido;285231;9544383;0,99
 302;A Estrada;27;1;8;Da Gama/Lazao/Toni Garrido;282174;9344477;0,99
 303;Falar A Verdade;27;1;8;Bino/Da Gama/Ras Bernardo;244950;8189093;0,99
@@ -308,32 +308,32 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 307;Doutor;27;1;8;Bino/Da Gama/Toni Garrido;178155;5950952;0,99
 308;Na Frente Da TV;27;1;8;Bino/Da Gama/Lazao/Ras Bernardo;289750;9633659;0,99
 309;Downtown;27;1;8;Cidade Negra;239725;8024386;0,99
-310;S·bado A Noite;27;1;8;Lulu Santos;267363;8895073;0,99
+310;S√°bado A Noite;27;1;8;Lulu Santos;267363;8895073;0,99
 311;A Cor Do Sol;27;1;8;Bernardo Vilhena/Da Gama/Lazao;273031;9142937;0,99
-312;Eu TambÈm Quero Beijar;27;1;8;Fausto Nilo/Moraes Moreira/Pepeu Gomes;211147;7029400;0,99
+312;Eu Tamb√©m Quero Beijar;27;1;8;Fausto Nilo/Moraes Moreira/Pepeu Gomes;211147;7029400;0,99
 313;Noite Do Prazer;28;1;7;NULL;311353;10309980;0,99
-314;¿ Francesa;28;1;7;NULL;244532;8150846;0,99
+314;√Ä Francesa;28;1;7;NULL;244532;8150846;0,99
 315;Cada Um Cada Um (A Namoradeira);28;1;7;NULL;253492;8441034;0,99
 316;Linha Do Equador;28;1;7;NULL;244715;8123466;0,99
 317;Amor Demais;28;1;7;NULL;254040;8420093;0,99
-318;FÈrias;28;1;7;NULL;264202;8731945;0,99
-319;Gostava Tanto De VocÍ;28;1;7;NULL;230452;7685326;0,99
+318;F√©rias;28;1;7;NULL;264202;8731945;0,99
+319;Gostava Tanto De Voc√™;28;1;7;NULL;230452;7685326;0,99
 320;Flor Do Futuro;28;1;7;NULL;275748;9205941;0,99
 321;Felicidade Urgente;28;1;7;NULL;266605;8873358;0,99
 322;Livre Pra Viver;28;1;7;NULL;214595;7111596;0,99
 323;Dig-Dig, Lambe-Lambe (Ao Vivo);29;1;9;Cassiano Costa/Cintia Maviane/J.F./Lucas Costa;205479;6892516;0,99
-324;PererÍ;29;1;9;Augusto ConceiÁ„o/Chiclete Com Banana;198661;6643207;0,99
+324;Perer√™;29;1;9;Augusto Concei√ß√£o/Chiclete Com Banana;198661;6643207;0,99
 325;TriboTchan;29;1;9;Cal Adan/Paulo Levi;194194;6507950;0,99
 326;Tapa Aqui, Descobre Ali;29;1;9;Paulo Levi/W. Rangel;188630;6327391;0,99
 327;Daniela;29;1;9;Jorge Cardoso/Pierre Onasis;230791;7748006;0,99
-328;Bate Lata;29;1;9;F·bio Nolasco/Gal Sales/Ivan Brasil;206733;7034985;0,99
-329;Garotas do Brasil;29;1;9;Garay, Ricardo Engels/Luca Predabom/Ludwig, Carlos Henrique/MaurÌcio Vieira;210155;6973625;0,99
+328;Bate Lata;29;1;9;F√°bio Nolasco/Gal Sales/Ivan Brasil;206733;7034985;0,99
+329;Garotas do Brasil;29;1;9;Garay, Ricardo Engels/Luca Predabom/Ludwig, Carlos Henrique/Maur√≠cio Vieira;210155;6973625;0,99
 330;Levada do Amor (Ailoviu);29;1;9;Luiz Wanderley/Paulo Levi;190093;6457752;0,99
 331;Lavadeira;29;1;9;Do Vale, Valverde/Gal Oliveira/Luciano Pinto;214256;7254147;0,99
-332;Reboladeira;29;1;9;Cal Adan/Ferrugem/Julinho Carioca/TrÌona NÌ Dhomhnaill;210599;7027525;0,99
-333;… que Nessa EncarnaÁ„o Eu Nasci Manga;29;1;9;Lucina/Luli;196519;6568081;0,99
+332;Reboladeira;29;1;9;Cal Adan/Ferrugem/Julinho Carioca/Tr√≠ona N√≠ Dhomhnaill;210599;7027525;0,99
+333;√â que Nessa Encarna√ß√£o Eu Nasci Manga;29;1;9;Lucina/Luli;196519;6568081;0,99
 334;Reggae Tchan;29;1;9;Cal Adan/Del Rey, Tension/Edu Casanova;206654;6931328;0,99
-335;My Love;29;1;9;Jauperi/Zeu GÛes;203493;6772813;0,99
+335;My Love;29;1;9;Jauperi/Zeu G√≥es;203493;6772813;0,99
 336;Latinha de Cerveja;29;1;9;Adriano Bernandes/Edmar Neves;166687;5532564;0,99
 337;You Shook Me;30;1;1;J B Lenoir/Willie Dixon;315951;10249958;0,99
 338;I Can't Quit You Baby;30;1;1;Willie Dixon;263836;8581414;0,99
@@ -374,38 +374,38 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 373;Sao Lucas 2001;32;1;10;NULL;296254;10020122;0,99
 374;Guanabara;33;1;7;Marcos Valle;247614;8499591;0,99
 375;Mas Que Nada;33;1;7;Jorge Ben;248398;8255254;0,99
-376;VÙo Sobre o Horizonte;33;1;7;J.r.Bertami/Parana;225097;7528825;0,99
+376;V√¥o Sobre o Horizonte;33;1;7;J.r.Bertami/Parana;225097;7528825;0,99
 377;A Paz;33;1;7;Donato/Gilberto Gil;263183;8619173;0,99
 378;Wave (Vou te Contar);33;1;7;Antonio Carlos Jobim;271647;9057557;0,99
-379;¡gua de Beber;33;1;7;Antonio Carlos Jobim/Vinicius de Moraes;146677;4866476;0,99
-380;Samba da BenÁaco;33;1;7;Baden Powell/Vinicius de Moraes;282200;9440676;0,99
+379;√Ågua de Beber;33;1;7;Antonio Carlos Jobim/Vinicius de Moraes;146677;4866476;0,99
+380;Samba da Ben√ßaco;33;1;7;Baden Powell/Vinicius de Moraes;282200;9440676;0,99
 381;Pode Parar;33;1;7;Jorge Vercilo/Jota Maranhao;179408;6046678;0,99
 382;Menino do Rio;33;1;7;Caetano Veloso;262713;8737489;0,99
 383;Ando Meio Desligado;33;1;7;Caetano Veloso;195813;6547648;0,99
-384;MistÈrio da RaÁa;33;1;7;Luiz Melodia/Ricardo Augusto;184320;6191752;0,99
+384;Mist√©rio da Ra√ßa;33;1;7;Luiz Melodia/Ricardo Augusto;184320;6191752;0,99
 385;All Star;33;1;7;Nando Reis;176326;5891697;0,99
 386;Menina Bonita;33;1;7;Alexandre Brazil/Pedro Luis/Rodrigo Cabelo;237087;7938246;0,99
-387;Pescador de Ilusıes;33;1;7;Macelo Yuka/O Rappa;245524;8267067;0,99
-388;¿ Vontade (Live Mix);33;1;7;Bombom/Ed Motta;180636;5972430;0,99
-389;Maria FumaÁa;33;1;7;Luiz Carlos/Oberdan;141008;4743149;0,99
+387;Pescador de Ilus√µes;33;1;7;Macelo Yuka/O Rappa;245524;8267067;0,99
+388;√Ä Vontade (Live Mix);33;1;7;Bombom/Ed Motta;180636;5972430;0,99
+389;Maria Fuma√ßa;33;1;7;Luiz Carlos/Oberdan;141008;4743149;0,99
 390;Sambassim (dj patife remix);33;1;7;Alba Carvalho/Fernando Porto;213655;7243166;0,99
-391;Garota De Ipanema;34;1;7;V·rios;279536;9141343;0,99
-392;Tim Tim Por Tim Tim;34;1;7;V·rios;213237;7143328;0,99
-393;Tarde Em Itapo„;34;1;7;V·rios;313704;10344491;0,99
-394;Tanto Tempo;34;1;7;V·rios;170292;5572240;0,99
-395;Eu Vim Da Bahia - Live;34;1;7;V·rios;157988;5115428;0,99
-396;AlÙ AlÙ Marciano;34;1;7;V·rios;238106;8013065;0,99
-397;Linha Do Horizonte;34;1;7;V·rios;279484;9275929;0,99
-398;Only A Dream In Rio;34;1;7;V·rios;371356;12192989;0,99
-399;Abrir A Porta;34;1;7;V·rios;271960;8991141;0,99
-400;Alice;34;1;7;V·rios;165982;5594341;0,99
-401;Momentos Que Marcam;34;1;7;V·rios;280137;9313740;0,99
-402;Um Jantar Pra Dois;34;1;7;V·rios;237714;7819755;0,99
-403;Bumbo Da Mangueira;34;1;7;V·rios;270158;9073350;0,99
-404;Mr Funk Samba;34;1;7;V·rios;213890;7102545;0,99
-405;Santo Antonio;34;1;7;V·rios;162716;5492069;0,99
-406;Por VocÍ;34;1;7;V·rios;205557;6792493;0,99
-407;SÛ Tinha De Ser Com VocÍ;34;1;7;V·rios;389642;13085596;0,99
+391;Garota De Ipanema;34;1;7;V√°rios;279536;9141343;0,99
+392;Tim Tim Por Tim Tim;34;1;7;V√°rios;213237;7143328;0,99
+393;Tarde Em Itapo√£;34;1;7;V√°rios;313704;10344491;0,99
+394;Tanto Tempo;34;1;7;V√°rios;170292;5572240;0,99
+395;Eu Vim Da Bahia - Live;34;1;7;V√°rios;157988;5115428;0,99
+396;Al√¥ Al√¥ Marciano;34;1;7;V√°rios;238106;8013065;0,99
+397;Linha Do Horizonte;34;1;7;V√°rios;279484;9275929;0,99
+398;Only A Dream In Rio;34;1;7;V√°rios;371356;12192989;0,99
+399;Abrir A Porta;34;1;7;V√°rios;271960;8991141;0,99
+400;Alice;34;1;7;V√°rios;165982;5594341;0,99
+401;Momentos Que Marcam;34;1;7;V√°rios;280137;9313740;0,99
+402;Um Jantar Pra Dois;34;1;7;V√°rios;237714;7819755;0,99
+403;Bumbo Da Mangueira;34;1;7;V√°rios;270158;9073350;0,99
+404;Mr Funk Samba;34;1;7;V√°rios;213890;7102545;0,99
+405;Santo Antonio;34;1;7;V√°rios;162716;5492069;0,99
+406;Por Voc√™;34;1;7;V√°rios;205557;6792493;0,99
+407;S√≥ Tinha De Ser Com Voc√™;34;1;7;V√°rios;389642;13085596;0,99
 408;Free Speech For The Dumb;35;1;3;Molaney/Morris/Roberts/Wainwright;155428;5076048;0,99
 409;It's Electric;35;1;3;Harris/Tatler;213995;6978601;0,99
 410;Sabbra Cadabra;35;1;3;Black Sabbath;380342;12418147;0,99
@@ -500,18 +500,18 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 499;Don't Lie To Me;40;1;1;David Coverdale/Earl Slick;283585;9288007;0,99
 500;Wherever You May Go;40;1;1;David Coverdale;239699;7803074;0,99
 501;Grito De Alerta;41;1;7;Gonzaga Jr.;202213;6539422;0,99
-502;N„o D· Mais Pra Segurar (Explode CoraÁ„o);41;1;7;NULL;219768;7083012;0,99
-503;ComeÁaria Tudo Outra Vez;41;1;7;NULL;196545;6473395;0,99
-504;O Que … O Que … ?;41;1;7;NULL;259291;8650647;0,99
+502;N√£o D√° Mais Pra Segurar (Explode Cora√ß√£o);41;1;7;NULL;219768;7083012;0,99
+503;Come√ßaria Tudo Outra Vez;41;1;7;NULL;196545;6473395;0,99
+504;O Que √â O Que √â ?;41;1;7;NULL;259291;8650647;0,99
 505;Sangrando;41;1;7;Gonzaga Jr/Gonzaguinha;169717;5494406;0,99
-506;Diga L·, CoraÁ„o;41;1;7;NULL;255921;8280636;0,99
+506;Diga L√°, Cora√ß√£o;41;1;7;NULL;255921;8280636;0,99
 507;Lindo Lago Do Amor;41;1;7;Gonzaga Jr.;249678;8353191;0,99
-508;Eu Apenas Queria Que VoÁÍ Soubesse;41;1;7;NULL;155637;5130056;0,99
+508;Eu Apenas Queria Que Vo√ß√™ Soubesse;41;1;7;NULL;155637;5130056;0,99
 509;Com A Perna No Mundo;41;1;7;Gonzaga Jr.;227448;7747108;0,99
-510;E Vamos ¿ Luta;41;1;7;NULL;222406;7585112;0,99
-511;Um Homem TambÈm Chora (Guerreiro Menino);41;1;7;NULL;207229;6854219;0,99
+510;E Vamos √Ä Luta;41;1;7;NULL;222406;7585112;0,99
+511;Um Homem Tamb√©m Chora (Guerreiro Menino);41;1;7;NULL;207229;6854219;0,99
 512;Comportamento Geral;41;1;7;Gonzaga Jr;181577;5997444;0,99
-513;Ponto De InterrogaÁ„o;41;1;7;NULL;180950;5946265;0,99
+513;Ponto De Interroga√ß√£o;41;1;7;NULL;180950;5946265;0,99
 514;Espere Por Mim, Morena;41;1;7;Gonzaguinha;207072;6796523;0,99
 515;Meia-Lua Inteira;23;1;7;NULL;222093;7466288;0,99
 516;Voce e Linda;23;1;7;NULL;242938;8050268;0,99
@@ -528,19 +528,19 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 527;Terra;23;1;7;NULL;401319;13224055;0,99
 528;Alegria, Alegria;23;1;7;NULL;169221;5497025;0,99
 529;Balada Do Louco;42;1;4;Arnaldo Baptista - Rita Lee;241057;7852328;0,99
-530;Ando Meio Desligado;42;1;4;Arnaldo Baptista - Rita Lee - †SÈrgio Dias;287817;9484504;0,99
+530;Ando Meio Desligado;42;1;4;Arnaldo Baptista - Rita Lee - ¬†S√©rgio Dias;287817;9484504;0,99
 531;Top Top;42;1;4;Os Mutantes - Arnolpho Lima Filho;146938;4875374;0,99
 532;Baby;42;1;4;Caetano Veloso;177188;5798202;0,99
 533;A E O Z;42;1;4;Mutantes;518556;16873005;0,99
 534;Panis Et Circenses;42;1;4;Caetano Veloso - Gilberto Gil;125152;4069688;0,99
-535;Ch„o De Estrelas;42;1;4;Orestes Barbosa-SÌlvio Caldas;284813;9433620;0,99
-536;Vida De Cachorro;42;1;4;Rita Lee - Arnaldo Baptista - SÈrgio Baptista;195186;6411149;0,99
+535;Ch√£o De Estrelas;42;1;4;Orestes Barbosa-S√≠lvio Caldas;284813;9433620;0,99
+536;Vida De Cachorro;42;1;4;Rita Lee - Arnaldo Baptista - S√©rgio Baptista;195186;6411149;0,99
 537;Bat Macumba;42;1;4;Gilberto Gil - Caetano Veloso;187794;6295223;0,99
 538;Desculpe Babe;42;1;4;Arnaldo Baptista - Rita Lee;170422;5637959;0,99
-539;Rita Lee;42;1;4;Arnaldo Baptista/Rita Lee/SÈrgio Dias;189257;6270503;0,99
-540;Posso Perder Minha Mulher, Minha M„e, Desde Que Eu Tenha O Rock And Roll;42;1;4;Arnaldo Baptista - Rita Lee - Arnolpho Lima Filho;222955;7346254;0,99
-541;Banho De Lua;42;1;4;B. de Filippi - F. Migliaci - Vers„o: Fred Jorge;221831;7232123;0,99
-542;Meu Refrigerador N„o Funciona;42;1;4;Arnaldo Baptista - Rita Lee - SÈrgio Dias;382981;12495906;0,99
+539;Rita Lee;42;1;4;Arnaldo Baptista/Rita Lee/S√©rgio Dias;189257;6270503;0,99
+540;Posso Perder Minha Mulher, Minha M√£e, Desde Que Eu Tenha O Rock And Roll;42;1;4;Arnaldo Baptista - Rita Lee - Arnolpho Lima Filho;222955;7346254;0,99
+541;Banho De Lua;42;1;4;B. de Filippi - F. Migliaci - Vers√£o: Fred Jorge;221831;7232123;0,99
+542;Meu Refrigerador N√£o Funciona;42;1;4;Arnaldo Baptista - Rita Lee - S√©rgio Dias;382981;12495906;0,99
 543;Burn;43;1;1;Coverdale/Lord/Paice;453955;14775708;0,99
 544;Stormbringer;43;1;1;Coverdale;277133;9050022;0,99
 545;Gypsy;43;1;1;Coverdale/Hughes/Lord/Paice;339173;11046952;0,99
@@ -560,13 +560,13 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 559;Mocidade;45;1;7;Domenil/J. Brito/Joaozinho/Rap, Marcelo Do;261720;8817757;0,99
 560;Unidos Da Tijuca;45;1;7;Douglas/Neves, Vicente Das/Silva, Gilmar L./Toninho Gentil/Wantuir;338834;11440689;0,99
 561;Salgueiro;45;1;7;Augusto/Craig Negoescu/Rocco Filho/Saara, Ze Carlos Da;305920;10294741;0,99
-562;Mangueira;45;1;7;Bizuca/ClÛvis PÍ/Gilson Bernini/Marelo D'Aguia;298318;9999506;0,99
-563;Uni„o Da Ilha;45;1;7;Dito/Djalma Falcao/Ilha, Almir Da/M·rcio AndrÈ;330945;11100945;0,99
-564;Grande Rio;45;1;7;Carlos Santos/Ciro/Claudio Russo/ZÈ Luiz;307252;10251428;0,99
+562;Mangueira;45;1;7;Bizuca/Cl√≥vis P√™/Gilson Bernini/Marelo D'Aguia;298318;9999506;0,99
+563;Uni√£o Da Ilha;45;1;7;Dito/Djalma Falcao/Ilha, Almir Da/M√°rcio Andr√©;330945;11100945;0,99
+564;Grande Rio;45;1;7;Carlos Santos/Ciro/Claudio Russo/Z√© Luiz;307252;10251428;0,99
 565;Portela;45;1;7;Flavio Bororo/Paulo Apparicio/Wagner Alves/Zeca Sereno;319608;10712216;0,99
 566;Caprichosos;45;1;7;Gule/Jorge 101/Lequinho/Luiz Piao;351320;11870956;0,99
-567;TradiÁ„o;45;1;7;Adalto Magalha/Lourenco;269165;9114880;0,99
-568;ImpÈrio Serrano;45;1;7;Arlindo Cruz/Carlos Sena/Elmo Caetano/Mauricao;334942;11161196;0,99
+567;Tradi√ß√£o;45;1;7;Adalto Magalha/Lourenco;269165;9114880;0,99
+568;Imp√©rio Serrano;45;1;7;Arlindo Cruz/Carlos Sena/Elmo Caetano/Mauricao;334942;11161196;0,99
 569;Tuiuti;45;1;7;Claudio Martins/David Lima/Kleber Rodrigues/Livre, Cesare Som;259657;8749492;0,99
 570;(Da Le) Yaleo;46;1;1;Santana;353488;11769507;0,99
 571;Love Of My Life;46;1;1;Carlos Santana & Dave Matthews;347820;11634337;0,99
@@ -581,19 +581,19 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 580;El Farol;46;1;1;Carlos Santana & KC Porter;291160;9599353;0,99
 581;Primavera;46;1;1;KC Porter & JB Eckl;378618;12504234;0,99
 582;The Calling;46;1;1;Carlos Santana & C. Thompson;747755;24703884;0,99
-583;SoluÁ„o;47;1;7;NULL;247431;8100449;0,99
+583;Solu√ß√£o;47;1;7;NULL;247431;8100449;0,99
 584;Manuel;47;1;7;NULL;230269;7677671;0,99
-585;Entre E OuÁa;47;1;7;NULL;286302;9391004;0,99
+585;Entre E Ou√ßa;47;1;7;NULL;286302;9391004;0,99
 586;Um Contrato Com Deus;47;1;7;NULL;202501;6636465;0,99
 587;Um Jantar Pra Dois;47;1;7;NULL;244009;8021589;0,99
-588;Vamos DanÁar;47;1;7;NULL;226194;7617432;0,99
+588;Vamos Dan√ßar;47;1;7;NULL;226194;7617432;0,99
 589;Um Love;47;1;7;NULL;181603;6095524;0,99
 590;Seis Da Tarde;47;1;7;NULL;238445;7935898;0,99
 591;Baixo Rio;47;1;7;NULL;198008;6521676;0,99
 592;Sombras Do Meu Destino;47;1;7;NULL;280685;9161539;0,99
 593;Do You Have Other Loves?;47;1;7;NULL;295235;9604273;0,99
 594;Agora Que O Dia Acordou;47;1;7;NULL;323213;10572752;0,99
-595;J·!!!;47;1;7;NULL;217782;7103608;0,99
+595;J√°!!!;47;1;7;NULL;217782;7103608;0,99
 596;A Rua;47;1;7;NULL;238027;7930264;0,99
 597;Now's The Time;48;1;2;Miles Davis;197459;6358868;0,99
 598;Jeru;48;1;2;Miles Davis;193410;6222536;0,99
@@ -644,35 +644,35 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 643;Jungle Drums;51;1;2;NULL;199627;6546063;0,99
 644;Showcase;51;1;2;NULL;201560;6697510;0,99
 645;Swedish Schnapps;51;1;2;NULL;191268;6359750;0,99
-646;Samba Da BÍnÁ„o;52;1;11;NULL;409965;13490008;0,99
-647;Pot-Pourri N.∫ 4;52;1;11;NULL;392437;13125975;0,99
-648;Onde Anda VocÍ;52;1;11;NULL;168437;5550356;0,99
+646;Samba Da B√™n√ß√£o;52;1;11;NULL;409965;13490008;0,99
+647;Pot-Pourri N.¬∫ 4;52;1;11;NULL;392437;13125975;0,99
+648;Onde Anda Voc√™;52;1;11;NULL;168437;5550356;0,99
 649;Samba Da Volta;52;1;11;NULL;170631;5676090;0,99
 650;Canto De Ossanha;52;1;11;NULL;204956;6771624;0,99
-651;Pot-Pourri N.∫ 5;52;1;11;NULL;219898;7117769;0,99
+651;Pot-Pourri N.¬∫ 5;52;1;11;NULL;219898;7117769;0,99
 652;Formosa;52;1;11;NULL;137482;4560873;0,99
-653;Como … Duro Trabalhar;52;1;11;NULL;226168;7541177;0,99
+653;Como √â Duro Trabalhar;52;1;11;NULL;226168;7541177;0,99
 654;Minha Namorada;52;1;11;NULL;244297;7927967;0,99
-655;Por Que Ser·;52;1;11;NULL;162142;5371483;0,99
+655;Por Que Ser√°;52;1;11;NULL;162142;5371483;0,99
 656;Berimbau;52;1;11;NULL;190667;6335548;0,99
 657;Deixa;52;1;11;NULL;179826;5932799;0,99
-658;Pot-Pourri N.∫ 2;52;1;11;NULL;211748;6878359;0,99
-659;Samba Em Prel˙dio;52;1;11;NULL;212636;6923473;0,99
+658;Pot-Pourri N.¬∫ 2;52;1;11;NULL;211748;6878359;0,99
+659;Samba Em Prel√∫dio;52;1;11;NULL;212636;6923473;0,99
 660;Carta Ao Tom 74;52;1;11;NULL;162560;5382354;0,99
-661;Linha de Passe (Jo„o Bosco);53;1;7;NULL;230948;7902328;0,99
-662;Pela Luz dos Olhos Teus (Mi˙cha e Tom Jobim);53;1;7;NULL;163970;5399626;0,99
-663;Ch„o de Giz (Elba Ramalho);53;1;7;NULL;274834;9016916;0,99
+661;Linha de Passe (Jo√£o Bosco);53;1;7;NULL;230948;7902328;0,99
+662;Pela Luz dos Olhos Teus (Mi√∫cha e Tom Jobim);53;1;7;NULL;163970;5399626;0,99
+663;Ch√£o de Giz (Elba Ramalho);53;1;7;NULL;274834;9016916;0,99
 664;Marina (Dorival Caymmi);53;1;7;NULL;172643;5523628;0,99
 665;Aquarela (Toquinho);53;1;7;NULL;259944;8480140;0,99
-666;CoraÁ„o do Agreste (Faf· de BelÈm);53;1;7;NULL;258194;8380320;0,99
+666;Cora√ß√£o do Agreste (Faf√° de Bel√©m);53;1;7;NULL;258194;8380320;0,99
 667;Dona (Roupa Nova);53;1;7;NULL;243356;7991295;0,99
-668;ComeÁaria Tudo Outra Vez (Maria Creuza);53;1;7;NULL;206994;6851151;0,99
-669;CaÁador de Mim (S· & Guarabyra);53;1;7;NULL;238341;7751360;0,99
+668;Come√ßaria Tudo Outra Vez (Maria Creuza);53;1;7;NULL;206994;6851151;0,99
+669;Ca√ßador de Mim (S√° & Guarabyra);53;1;7;NULL;238341;7751360;0,99
 670;Romaria (Renato Teixeira);53;1;7;NULL;244793;8033885;0,99
-671;As Rosas N„o Falam (Beth Carvalho);53;1;7;NULL;116767;3836641;0,99
+671;As Rosas N√£o Falam (Beth Carvalho);53;1;7;NULL;116767;3836641;0,99
 672;Wave (Os Cariocas);53;1;7;NULL;130063;4298006;0,99
 673;Garota de Ipanema (Dick Farney);53;1;7;NULL;174367;5767474;0,99
-674;Preciso Apender a Viver SÛ (Maysa);53;1;7;NULL;143464;4642359;0,99
+674;Preciso Apender a Viver S√≥ (Maysa);53;1;7;NULL;143464;4642359;0,99
 675;Susie Q;54;1;1;Hawkins-Lewis-Broadwater;275565;9043825;0,99
 676;I Put A Spell On You;54;1;1;Jay Hawkins;272091;8943000;0,99
 677;Proud Mary;54;1;1;J. C. Fogerty;189022;6229590;0,99
@@ -713,19 +713,19 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 712;Born To Move;55;1;1;J.C. Fogerty;342804;11260814;0,99
 713;Lookin' For A Reason;55;1;1;J.C. Fogerty;209789;6933135;0,99
 714;Hello Mary Lou;55;1;1;J.C. Fogerty;132832;4476563;0,99
-715;Gatas Extraordin·rias;56;1;7;NULL;212506;7095702;0,99
+715;Gatas Extraordin√°rias;56;1;7;NULL;212506;7095702;0,99
 716;Brasil;56;1;7;NULL;243696;7911683;0,99
 717;Eu Sou Neguinha (Ao Vivo);56;1;7;NULL;251768;8376000;0,99
-718;GeraÁ„o Coca-Cola (Ao Vivo);56;1;7;NULL;228153;7573301;0,99
+718;Gera√ß√£o Coca-Cola (Ao Vivo);56;1;7;NULL;228153;7573301;0,99
 719;Lanterna Dos Afogados;56;1;7;NULL;204538;6714582;0,99
-720;CoronÈ Antonio Bento;56;1;7;NULL;200437;6713066;0,99
-721;VocÍ Passa, Eu Acho GraÁa (Ao Vivo);56;1;7;NULL;206733;6943576;0,99
-722;Meu Mundo Fica Completo (Com VocÍ);56;1;7;NULL;247771;8322240;0,99
-723;1∞ De Julho;56;1;7;NULL;270262;9017535;0,99
-724;M˙sica Urbana 2;56;1;7;NULL;194899;6383472;0,99
+720;Coron√© Antonio Bento;56;1;7;NULL;200437;6713066;0,99
+721;Voc√™ Passa, Eu Acho Gra√ßa (Ao Vivo);56;1;7;NULL;206733;6943576;0,99
+722;Meu Mundo Fica Completo (Com Voc√™);56;1;7;NULL;247771;8322240;0,99
+723;1¬∞ De Julho;56;1;7;NULL;270262;9017535;0,99
+724;M√∫sica Urbana 2;56;1;7;NULL;194899;6383472;0,99
 725;Vida Bandida (Ao Vivo);56;1;7;NULL;192626;6360785;0,99
 726;Palavras Ao Vento;56;1;7;NULL;212453;7048676;0,99
-727;N„o Sei O Que Eu Quero Da Vida;56;1;7;NULL;151849;5024963;0,99
+727;N√£o Sei O Que Eu Quero Da Vida;56;1;7;NULL;151849;5024963;0,99
 728;Woman Is The Nigger Of The World (Ao Vivo);56;1;7;NULL;298919;9724145;0,99
 729;Juventude Transviada (Ao Vivo);56;1;7;NULL;278622;9183808;0,99
 730;Malandragem;57;1;7;NULL;247588;8165048;0,99
@@ -733,15 +733,15 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 732;Smells Like Teen Spirit (Ao Vivo);57;1;7;NULL;316865;10384506;0,99
 733;E.C.T.;57;1;7;NULL;227500;7571834;0,99
 734;Todo Amor Que Houver Nesta Vida;57;1;7;NULL;227160;7420347;0,99
-735;MetrÙ. Linha 743;57;1;7;NULL;174654;5837495;0,99
-736;NÛs (Ao Vivo);57;1;7;NULL;193828;6498661;0,99
-737;Na CadÍncia Do Samba;57;1;7;NULL;196075;6483952;0,99
-738;Admir·vel Gado Novo;57;1;7;NULL;274390;9144031;0,99
+735;Metr√¥. Linha 743;57;1;7;NULL;174654;5837495;0,99
+736;N√≥s (Ao Vivo);57;1;7;NULL;193828;6498661;0,99
+737;Na Cad√™ncia Do Samba;57;1;7;NULL;196075;6483952;0,99
+738;Admir√°vel Gado Novo;57;1;7;NULL;274390;9144031;0,99
 739;Eleanor Rigby;57;1;7;NULL;189466;6303205;0,99
 740;Socorro;57;1;7;NULL;258586;8549393;0,99
 741;Blues Da Piedade;57;1;7;NULL;257123;8472964;0,99
 742;Rubens;57;1;7;NULL;211853;7026317;0,99
-743;N„o Deixe O Samba Morrer - Cassia Eller e Alcione;57;1;7;NULL;268173;8936345;0,99
+743;N√£o Deixe O Samba Morrer - Cassia Eller e Alcione;57;1;7;NULL;268173;8936345;0,99
 744;Mis Penas Lloraba Yo (Ao Vivo) Soy Gitano (Tangos);57;1;7;NULL;188473;6195854;0,99
 745;Comin' Home;58;1;1;Bolin/Coverdale/Paice;235781;7644604;0,99
 746;Lady Luck;58;1;1;Cook/Coverdale;168202;5501379;0,99
@@ -849,43 +849,43 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 848;Outbreak;68;1;2;Jim Beard & Jon Herington;659226;21685807;0,99
 849;Baltimore, DC;68;1;2;John Scofield;346932;11394473;0,99
 850;Talkin Loud and Saying Nothin;68;1;2;James Brown & Bobby Byrd;360411;11994859;0,99
-851;PÈtala;69;1;7;NULL;270080;8856165;0,99
+851;P√©tala;69;1;7;NULL;270080;8856165;0,99
 852;Meu Bem-Querer;69;1;7;NULL;255608;8330047;0,99
 853;Cigano;69;1;7;NULL;304692;10037362;0,99
 854;Boa Noite;69;1;7;NULL;338755;11283582;0,99
 855;Fato Consumado;69;1;7;NULL;211565;7018586;0,99
-856;Faltando Um PedaÁo;69;1;7;NULL;267728;8788760;0,99
-857;¡libi;69;1;7;NULL;213237;6928434;0,99
+856;Faltando Um Peda√ßo;69;1;7;NULL;267728;8788760;0,99
+857;√Ålibi;69;1;7;NULL;213237;6928434;0,99
 858;Esquinas;69;1;7;NULL;280999;9096726;0,99
 859;Se...;69;1;7;NULL;286432;9413777;0,99
 860;Eu Te Devoro;69;1;7;NULL;311614;10312775;0,99
-861;Lil·s;69;1;7;NULL;274181;9049542;0,99
+861;Lil√°s;69;1;7;NULL;274181;9049542;0,99
 862;Acelerou;69;1;7;NULL;284081;9396942;0,99
 863;Um Amor Puro;69;1;7;NULL;327784;10687311;0,99
 864;Samurai;70;1;7;Djavan;330997;10872787;0,99
 865;Nem Um Dia;70;1;7;Djavan;337423;11181446;0,99
 866;Oceano;70;1;7;Djavan;217338;7026441;0,99
-867;AÁai;70;1;7;Djavan;270968;8893682;0,99
+867;A√ßai;70;1;7;Djavan;270968;8893682;0,99
 868;Serrado;70;1;7;Djavan;295314;9842240;0,99
 869;Flor De Lis;70;1;7;Djavan;236355;7801108;0,99
-870;Amar … Tudo;70;1;7;Djavan;211617;7073899;0,99
+870;Amar √â Tudo;70;1;7;Djavan;211617;7073899;0,99
 871;Azul;70;1;7;Djavan;253962;8381029;0,99
 872;Seduzir;70;1;7;Djavan;277524;9163253;0,99
 873;A Carta;70;1;7;Djavan - Gabriel, O Pensador;347297;11493463;0,99
 874;Sina;70;1;7;Djavan;268173;8906539;0,99
 875;Acelerou;70;1;7;Djavan;284133;9391439;0,99
 876;Um Amor Puro;70;1;7;Djavan;327105;10664698;0,99
-877;O BÍbado e a Equilibrista;71;1;7;NULL;223059;7306143;0,99
+877;O B√™bado e a Equilibrista;71;1;7;NULL;223059;7306143;0,99
 878;O Mestre-Sala dos Mares;71;1;7;NULL;186226;6180414;0,99
-879;Atr·s da Porta;71;1;7;NULL;166608;5432518;0,99
-880;Dois Pra L·, Dois Pra C·;71;1;7;NULL;263026;8684639;0,99
+879;Atr√°s da Porta;71;1;7;NULL;166608;5432518;0,99
+880;Dois Pra L√°, Dois Pra C√°;71;1;7;NULL;263026;8684639;0,99
 881;Casa no Campo;71;1;7;NULL;170788;5531841;0,99
 882;Romaria;71;1;7;NULL;242834;7968525;0,99
-883;AlÙ, AlÙ, Marciano;71;1;7;NULL;241397;8137254;0,99
+883;Al√¥, Al√¥, Marciano;71;1;7;NULL;241397;8137254;0,99
 884;Me Deixas Louca;71;1;7;NULL;214831;6888030;0,99
-885;FascinaÁ„o;71;1;7;NULL;180793;5793959;0,99
+885;Fascina√ß√£o;71;1;7;NULL;180793;5793959;0,99
 886;Saudosa Maloca;71;1;7;NULL;278125;9059416;0,99
-887;As AparÍncias Enganam;71;1;7;NULL;247379;8014346;0,99
+887;As Apar√™ncias Enganam;71;1;7;NULL;247379;8014346;0,99
 888;Madalena;71;1;7;NULL;157387;5243721;0,99
 889;Maria Rosa;71;1;7;NULL;232803;7592504;0,99
 890;Aprendendo A Jogar;71;1;7;NULL;290664;9391041;0,99
@@ -976,15 +976,15 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 975;Deixa Entrar;78;1;7;NULL;33619;1095012;0,99
 976;Falamansa Song;78;1;7;NULL;237165;7921313;0,99
 977;Xote Dos Milagres;78;1;7;NULL;269557;8897778;0,99
-978;Rindo ¿ Toa;78;1;7;NULL;222066;7365321;0,99
-979;ConfidÍncia;78;1;7;NULL;222197;7460829;0,99
-980;ForrÛ De TÛquio;78;1;7;NULL;169273;5588756;0,99
+978;Rindo √Ä Toa;78;1;7;NULL;222066;7365321;0,99
+979;Confid√™ncia;78;1;7;NULL;222197;7460829;0,99
+980;Forr√≥ De T√≥quio;78;1;7;NULL;169273;5588756;0,99
 981;Zeca Violeiro;78;1;7;NULL;143673;4781949;0,99
 982;Avisa;78;1;7;NULL;355030;11844320;0,99
 983;Principiando/Decolagem;78;1;7;NULL;116767;3923789;0,99
 984;Asas;78;1;7;NULL;231915;7711669;0,99
 985;Medo De Escuro;78;1;7;NULL;213760;7056323;0,99
-986;OraÁ„o;78;1;7;NULL;271072;9003882;0,99
+986;Ora√ß√£o;78;1;7;NULL;271072;9003882;0,99
 987;Minha Gata;78;1;7;NULL;181838;6039502;0,99
 988;Desaforo;78;1;7;NULL;174524;5853561;0,99
 989;In Your Honor;79;1;1;Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett;230191;7468463;0,99
@@ -1031,7 +1031,7 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 1030;Everlong;82;1;1;Dave Grohl;250749;8270816;0,99
 1031;Walking After You;82;1;1;Dave Grohl;303856;9898992;0,99
 1032;New Way Home;82;1;1;Dave, Taylor, Nate, Chris;342230;11205664;0,99
-1033;My Way;83;1;12;claude franÁois/gilles thibault/jacques revaux/paul anka;275879;8928684;0,99
+1033;My Way;83;1;12;claude fran√ßois/gilles thibault/jacques revaux/paul anka;275879;8928684;0,99
 1034;Strangers In The Night;83;1;12;berthold kaempfert/charles singleton/eddie snyder;155794;5055295;0,99
 1035;New York, New York;83;1;12;fred ebb/john kander;206001;6707993;0,99
 1036;I Get A Kick Out Of You;83;1;12;cole porter;194429;6332441;0,99
@@ -1058,34 +1058,34 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 1057;Entrando Na Sua (Intro);84;1;7;NULL;179252;5840027;0,99
 1058;Nervosa;84;1;7;NULL;229537;7680421;0,99
 1059;Funk De Bamba (Com Fernanda Abreu);84;1;7;NULL;237191;7866165;0,99
-1060;Call Me At Cleo¥s;84;1;7;NULL;236617;7920510;0,99
-1061;Olhos Coloridos (Com Sandra De S·);84;1;7;NULL;321332;10567404;0,99
-1062;ZambaÁ„o;84;1;7;NULL;301113;10030604;0,99
+1060;Call Me At Cleo¬¥s;84;1;7;NULL;236617;7920510;0,99
+1061;Olhos Coloridos (Com Sandra De S√°);84;1;7;NULL;321332;10567404;0,99
+1062;Zamba√ß√£o;84;1;7;NULL;301113;10030604;0,99
 1063;Funk Hum;84;1;7;NULL;244453;8084475;0,99
 1064;Forty Days (Com DJ Hum);84;1;7;NULL;221727;7347172;0,99
 1065;Balada Da Paula;84;1;7;Emerson Villani;322821;10603717;0,99
 1066;Dujji;84;1;7;NULL;324597;10833935;0,99
 1067;Meu Guarda-Chuva;84;1;7;NULL;248528;8216625;0,99
-1068;MotÈis;84;1;7;NULL;213498;7041077;0,99
+1068;Mot√©is;84;1;7;NULL;213498;7041077;0,99
 1069;Whistle Stop;84;1;7;NULL;526132;17533664;0,99
 1070;16 Toneladas;84;1;7;NULL;191634;6390885;0,99
 1071;Divirta-Se (Saindo Da Sua);84;1;7;NULL;74919;2439206;0,99
 1072;Forty Days Instrumental;84;1;7;NULL;292493;9584317;0,99
-1073;”ia Eu Aqui De Novo;85;1;10;NULL;219454;7469735;0,99
-1074;Bai„o Da Penha;85;1;10;NULL;247928;8393047;0,99
+1073;√ìia Eu Aqui De Novo;85;1;10;NULL;219454;7469735;0,99
+1074;Bai√£o Da Penha;85;1;10;NULL;247928;8393047;0,99
 1075;Esperando Na Janela;85;1;10;Manuca/Raimundinho DoAcordion/Targino Godim;261041;8660617;0,99
 1076;Juazeiro;85;1;10;Humberto Teixeira/Luiz Gonzaga;222275;7349779;0,99
-1077;⁄ltimo Pau-De-Arara;85;1;10;Corumb·/JosÈ Gumar„es/Venancio;200437;6638563;0,99
+1077;√öltimo Pau-De-Arara;85;1;10;Corumb√°/Jos√© Gumar√£es/Venancio;200437;6638563;0,99
 1078;Asa Branca;85;1;10;Humberto Teixeira/Luiz Gonzaga;217051;7387183;0,99
-1079;Qui Nem JilÛ;85;1;10;Humberto Teixeira/Luiz Gonzaga;204695;6937472;0,99
+1079;Qui Nem Jil√≥;85;1;10;Humberto Teixeira/Luiz Gonzaga;204695;6937472;0,99
 1080;Assum Preto;85;1;10;Humberto Teixeira/Luiz Gonzaga;199653;6625000;0,99
-1081;Pau-De-Arara;85;1;10;"Guio De Morais E Seus ""Parentes""/Luiz Gonzaga";191660;6340649;0,99
-1082;A Volta Da Asa Branca;85;1;10;Luiz Gonzaga/ZÈ Dantas;271020;9098093;0,99
+1081;Pau-De-Arara;85;1;10;Guio De Morais E Seus Parentes/Luiz Gonzaga;191660;6340649;0,99
+1082;A Volta Da Asa Branca;85;1;10;Luiz Gonzaga/Z√© Dantas;271020;9098093;0,99
 1083;O Amor Daqui De Casa;85;1;10;Gilberto Gil;148636;4888292;0,99
 1084;As Pegadas Do Amor;85;1;10;Gilberto Gil;209136;6899062;0,99
 1085;Lamento Sertanejo;85;1;10;Dominguinhos/Gilberto Gil;260963;8518290;0,99
 1086;Casinha Feliz;85;1;10;Gilberto Gil;32287;1039615;0,99
-1087;IntroduÁ„o (Live);86;1;7;NULL;154096;5227579;0,99
+1087;Introdu√ß√£o (Live);86;1;7;NULL;154096;5227579;0,99
 1088;Palco (Live);86;1;7;NULL;238315;8026622;0,99
 1089;Is This Love (Live);86;1;7;NULL;295262;9819759;0,99
 1090;Stir It Up (Live);86;1;7;NULL;282409;9594738;0,99
@@ -1094,8 +1094,8 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 1093;Quanta (Live);86;1;7;NULL;357485;11774865;0,99
 1094;Estrela (Live);86;1;7;NULL;285309;9436411;0,99
 1095;Pela Internet (Live);86;1;7;NULL;263471;8804401;0,99
-1096;CÈrebro EletrÙnico (Live);86;1;7;NULL;231627;7805352;0,99
-1097;OpachorÙ (Live);86;1;7;NULL;259526;8596384;0,99
+1096;C√©rebro Eletr√¥nico (Live);86;1;7;NULL;231627;7805352;0,99
+1097;Opachor√¥ (Live);86;1;7;NULL;259526;8596384;0,99
 1098;Copacabana (Live);86;1;7;NULL;289671;9673672;0,99
 1099;A Novidade (Live);86;1;7;NULL;316969;10508000;0,99
 1100;Ghandi (Live);86;1;7;NULL;222458;7481950;0,99
@@ -1107,21 +1107,21 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 1106;Tenho Sede;73;1;7;Gilberto Gil;261616;8708114;0,99
 1107;Refazenda;73;1;7;Gilberto Gil;218305;7237784;0,99
 1108;Realce;73;1;7;Gilberto Gil;264489;8847612;0,99
-1109;EsotÈrico;73;1;7;Gilberto Gil;317779;10530533;0,99
-1110;Dr„o;73;1;7;Gilberto Gil;301453;9931950;0,99
+1109;Esot√©rico;73;1;7;Gilberto Gil;317779;10530533;0,99
+1110;Dr√£o;73;1;7;Gilberto Gil;301453;9931950;0,99
 1111;A Paz;73;1;7;Gilberto Gil;293093;9593064;0,99
 1112;Beira Mar;73;1;7;Gilberto Gil;295444;9597994;0,99
 1113;Sampa;73;1;7;Gilberto Gil;225697;7469905;0,99
-1114;Parabolicamar·;73;1;7;Gilberto Gil;284943;9543435;0,99
+1114;Parabolicamar√°;73;1;7;Gilberto Gil;284943;9543435;0,99
 1115;Tempo Rei;73;1;7;Gilberto Gil;302733;10019269;0,99
 1116;Expresso 2222;73;1;7;Gilberto Gil;284760;9690577;0,99
-1117;Aquele AbraÁo;73;1;7;Gilberto Gil;263993;8805003;0,99
+1117;Aquele Abra√ßo;73;1;7;Gilberto Gil;263993;8805003;0,99
 1118;Palco;73;1;7;Gilberto Gil;270550;9049901;0,99
 1119;Toda Menina Baiana;73;1;7;Gilberto Gil;278177;9351000;0,99
-1120;SÌtio Do Pica-Pau Amarelo;73;1;7;Gilberto Gil;218070;7217955;0,99
+1120;S√≠tio Do Pica-Pau Amarelo;73;1;7;Gilberto Gil;218070;7217955;0,99
 1121;Straight Out Of Line;88;1;3;Sully Erna;259213;8511877;0,99
 1122;Faceless;88;1;3;Sully Erna;216006;6992417;0,99
-1123;Changes;88;1;3;"Sully Erna; Tony Rombola";260022;8455835;0,99
+1123;Changes;88;1;3;Sully Erna Tony Rombola;260022;8455835;0,99
 1124;Make Me Believe;88;1;3;Sully Erna;248607;8075050;0,99
 1125;I Stand Alone;88;1;3;Sully Erna;246125;8017041;0,99
 1126;Re-Align;88;1;3;Sully Erna;260884;8513891;0,99
@@ -1130,19 +1130,19 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 1129;Dead And Broken;88;1;3;Sully Erna;251454;8206611;0,99
 1130;I Am;88;1;3;Sully Erna;239516;7803270;0,99
 1131;The Awakening;88;1;3;Sully Erna;89547;3035251;0,99
-1132;Serenity;88;1;3;"Sully Erna; Tony Rombola";274834;9172976;0,99
-1133;American Idiot;89;1;4;Billie Joe Armstrong, Mike Dirnt, TrÈ Cool;174419;5705793;0,99
+1132;Serenity;88;1;3;Sully Erna Tony Rombola;274834;9172976;0,99
+1133;American Idiot;89;1;4;Billie Joe Armstrong, Mike Dirnt, Tr√© Cool;174419;5705793;0,99
 1134;Jesus Of Suburbia / City Of The Damned / I Don't Care / Dearly Beloved / Tales Of Another Broken Home;89;1;4;Billie Joe Armstrong/Green Day;548336;17875209;0,99
-1135;Holiday;89;1;4;Billie Joe Armstrong, Mike Dirnt, TrÈ Cool;232724;7599602;0,99
-1136;Boulevard Of Broken Dreams;89;1;4;Mike Dint, Billie Joe, TrÈ Cool;260858;8485122;0,99
+1135;Holiday;89;1;4;Billie Joe Armstrong, Mike Dirnt, Tr√© Cool;232724;7599602;0,99
+1136;Boulevard Of Broken Dreams;89;1;4;Mike Dint, Billie Joe, Tr√© Cool;260858;8485122;0,99
 1137;Are We The Waiting;89;1;4;Green Day;163004;5328329;0,99
 1138;St. Jimmy;89;1;4;Green Day;175307;5716589;0,99
 1139;Give Me Novacaine;89;1;4;Green Day;205871;6752485;0,99
 1140;She's A Rebel;89;1;4;Green Day;120528;3901226;0,99
 1141;Extraordinary Girl;89;1;4;Green Day;214021;6975177;0,99
 1142;Letterbomb;89;1;4;Green Day;246151;7980902;0,99
-1143;Wake Me Up When September Ends;89;1;4;Mike Dint, Billie Joe, TrÈ Cool;285753;9325597;0,99
-1144;Homecoming / The Death Of St. Jimmy / East 12th St. / Nobody Likes You / Rock And Roll Girlfriend / We're Coming Home Again;89;1;4;Mike Dirnt/TrÈ Cool;558602;18139840;0,99
+1143;Wake Me Up When September Ends;89;1;4;Mike Dint, Billie Joe, Tr√© Cool;285753;9325597;0,99
+1144;Homecoming / The Death Of St. Jimmy / East 12th St. / Nobody Likes You / Rock And Roll Girlfriend / We're Coming Home Again;89;1;4;Mike Dirnt/Tr√© Cool;558602;18139840;0,99
 1145;Whatsername;89;1;4;Green Day;252316;8244843;0,99
 1146;Welcome to the Jungle;90;2;1;NULL;273552;4538451;0,99
 1147;It's So Easy;90;2;1;NULL;202824;3394019;0,99
@@ -1268,19 +1268,19 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 1267;Fear Of The Dark;99;1;1;Steve Harris;436976;17483789;0,99
 1268;01 - Prowler;100;1;6;Steve Harris;236173;5668992;0,99
 1269;02 - Sanctuary;100;1;6;David Murray/Paul Di'Anno/Steve Harris;196284;4712576;0,99
-1270;03 - Remember Tomorrow;100;1;6;Harris/Paul Di¥Anno;328620;7889024;0,99
-1271;04 - Running Free;100;1;6;Harris/Paul Di¥Anno;197276;4739122;0,99
+1270;03 - Remember Tomorrow;100;1;6;Harris/Paul Di¬¥Anno;328620;7889024;0,99
+1271;04 - Running Free;100;1;6;Harris/Paul Di¬¥Anno;197276;4739122;0,99
 1272;05 - Phantom of the Opera;100;1;6;Steve Harris;428016;10276872;0,99
 1273;06 - Transylvania;100;1;6;Steve Harris;259343;6226048;0,99
 1274;07 - Strange World;100;1;6;Steve Harris;332460;7981184;0,99
-1275;08 - Charlotte the Harlot;100;1;6;Murray †Dave;252708;6066304;0,99
+1275;08 - Charlotte the Harlot;100;1;6;Murray ¬†Dave;252708;6066304;0,99
 1276;09 - Iron Maiden;100;1;6;Steve Harris;216058;5189891;0,99
 1277;The Ides Of March;101;1;13;Steve Harris;105926;2543744;0,99
 1278;Wrathchild;101;1;13;Steve Harris;174471;4188288;0,99
 1279;Murders In The Rue Morgue;101;1;13;Steve Harris;258377;6205786;0,99
 1280;Another Life;101;1;13;Steve Harris;203049;4874368;0,99
 1281;Genghis Khan;101;1;13;Steve Harris;187141;4493440;0,99
-1282;Innocent Exile;101;1;13;Di¥Anno/Harris;232515;5584861;0,99
+1282;Innocent Exile;101;1;13;Di¬¥Anno/Harris;232515;5584861;0,99
 1283;Killers;101;1;13;Steve Harris;300956;7227440;0,99
 1284;Prodigal Son;101;1;13;Steve Harris;372349;8937600;0,99
 1285;Purgatory;101;1;13;Steve Harris;200150;4804736;0,99
@@ -1369,14 +1369,14 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 1368;Hallowed Be Thy Name;109;1;1;Steve Harris;443977;17760384;0,99
 1369;Sanctuary;109;1;1;David Murray/Paul Di'Anno/Steve Harris;317335;12695680;0,99
 1370;Run To The Hills;109;1;1;Steve Harris;292179;11688064;0,99
-1371;Moonchild;110;1;3;"Adrian Smith; Bruce Dickinson";340767;8179151;0,99
+1371;Moonchild;110;1;3;Adrian Smith Bruce Dickinson;340767;8179151;0,99
 1372;Infinite Dreams;110;1;3;Steve Harris;369005;8858669;0,99
-1373;Can I Play With Madness;110;1;3;"Adrian Smith; Bruce Dickinson; Steve Harris";211043;5067867;0,99
-1374;The Evil That Men Do;110;1;3;"Adrian Smith; Bruce Dickinson; Steve Harris";273998;6578930;0,99
+1373;Can I Play With Madness;110;1;3;Adrian Smith Bruce Dickinson Steve Harris;211043;5067867;0,99
+1374;The Evil That Men Do;110;1;3;Adrian Smith Bruce Dickinson Steve Harris;273998;6578930;0,99
 1375;Seventh Son of a Seventh Son;110;1;3;Steve Harris;593580;14249000;0,99
-1376;The Prophecy;110;1;3;"Dave Murray; Steve Harris";305475;7334450;0,99
-1377;The Clairvoyant;110;1;3;"Adrian Smith; Bruce Dickinson; Steve Harris";267023;6411510;0,99
-1378;Only the Good Die Young;110;1;3;"Bruce Dickinson; Harris";280894;6744431;0,99
+1376;The Prophecy;110;1;3;Dave Murray Steve Harris;305475;7334450;0,99
+1377;The Clairvoyant;110;1;3;Adrian Smith Bruce Dickinson Steve Harris;267023;6411510;0,99
+1378;Only the Good Die Young;110;1;3;Bruce Dickinson Harris;280894;6744431;0,99
 1379;Caught Somewhere in Time;111;1;3;Steve Harris;445779;10701149;0,99
 1380;Wasted Years;111;1;3;Adrian Smith;307565;7384358;0,99
 1381;Sea of Madness;111;1;3;Adrian Smith;341995;8210695;0,99
@@ -1508,12 +1508,12 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 1507;Alcohol;122;1;7;NULL;355239;12010478;0,99
 1508;Mama Africa;122;1;7;NULL;283062;9488316;0,99
 1509;Salve Simpatia;122;1;7;NULL;343484;11314756;0,99
-1510;W/Brasil (Chama O SÌndico);122;1;7;NULL;317100;10599953;0,99
-1511;PaÌs Tropical;122;1;7;NULL;452519;14946972;0,99
-1512;Os Alquimistas Est„o Chegando;122;1;7;NULL;367281;12304520;0,99
+1510;W/Brasil (Chama O S√≠ndico);122;1;7;NULL;317100;10599953;0,99
+1511;Pa√≠s Tropical;122;1;7;NULL;452519;14946972;0,99
+1512;Os Alquimistas Est√£o Chegando;122;1;7;NULL;367281;12304520;0,99
 1513;Charles Anjo 45;122;1;7;NULL;389276;13022833;0,99
-1514;SelassiÍ;122;1;7;NULL;326321;10724982;0,99
-1515;Menina Sarar·;122;1;7;NULL;191477;6393818;0,99
+1514;Selassi√™;122;1;7;NULL;326321;10724982;0,99
+1515;Menina Sarar√°;122;1;7;NULL;191477;6393818;0,99
 1516;Que Maravilha;122;1;7;NULL;338076;10996656;0,99
 1517;Santa Clara Clareou;122;1;7;NULL;380081;12524725;0,99
 1518;Filho Maravilha;122;1;7;NULL;227526;7498259;0,99
@@ -1522,28 +1522,28 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 1521;As Dores do Mundo;123;1;7;Hyldon;255477;8537092;0,99
 1522;Vou Pra Ai;123;1;7;NULL;300878;10053718;0,99
 1523;My Brother;123;1;7;NULL;253231;8431821;0,99
-1524;H· Quanto Tempo;123;1;7;NULL;270027;9004470;0,99
-1525;VÌcio;123;1;7;NULL;269897;8887216;0,99
-1526;Encontrar AlguÈm;123;1;7;Marco Tulio Lara/Rogerio Flausino;224078;7437935;0,99
-1527;Dance Enquanto È Tempo;123;1;7;NULL;229093;7583799;0,99
+1524;H√° Quanto Tempo;123;1;7;NULL;270027;9004470;0,99
+1525;V√≠cio;123;1;7;NULL;269897;8887216;0,99
+1526;Encontrar Algu√©m;123;1;7;Marco Tulio Lara/Rogerio Flausino;224078;7437935;0,99
+1527;Dance Enquanto √© Tempo;123;1;7;NULL;229093;7583799;0,99
 1528;A Tarde;123;1;7;NULL;266919;8836127;0,99
 1529;Always Be All Right;123;1;7;NULL;128078;4299676;0,99
 1530;Sem Sentido;123;1;7;NULL;250462;8292108;0,99
 1531;Onibusfobia;123;1;7;NULL;315977;10474904;0,99
-1532;Pura Elegancia;124;1;16;Jo„o Suplicy;284107;9632269;0,99
-1533;Choramingando;124;1;16;Jo„o Suplicy;190484;6400532;0,99
-1534;Por Merecer;124;1;16;Jo„o Suplicy;230582;7764601;0,99
-1535;No Futuro;124;1;16;Jo„o Suplicy;182308;6056200;0,99
-1536;Voce Inteira;124;1;16;Jo„o Suplicy;241084;8077282;0,99
-1537;Cuando A Noite Vai Chegando;124;1;16;Jo„o Suplicy;270628;9081874;0,99
-1538;Naquele Dia;124;1;16;Jo„o Suplicy;251768;8452654;0,99
-1539;Equinocio;124;1;16;Jo„o Suplicy;269008;8871455;0,99
-1540;Papel„o;124;1;16;Jo„o Suplicy;213263;7257390;0,99
-1541;Cuando Eu For Pro Ceu;124;1;16;Jo„o Suplicy;118804;3948371;0,99
-1542;Do Nosso Amor;124;1;16;Jo„o Suplicy;203415;6774566;0,99
-1543;Borogodo;124;1;16;Jo„o Suplicy;208457;7104588;0,99
-1544;Cafezinho;124;1;16;Jo„o Suplicy;180924;6031174;0,99
-1545;Enquanto O Dia N„o Vem;124;1;16;Jo„o Suplicy;220891;7248336;0,99
+1532;Pura Elegancia;124;1;16;Jo√£o Suplicy;284107;9632269;0,99
+1533;Choramingando;124;1;16;Jo√£o Suplicy;190484;6400532;0,99
+1534;Por Merecer;124;1;16;Jo√£o Suplicy;230582;7764601;0,99
+1535;No Futuro;124;1;16;Jo√£o Suplicy;182308;6056200;0,99
+1536;Voce Inteira;124;1;16;Jo√£o Suplicy;241084;8077282;0,99
+1537;Cuando A Noite Vai Chegando;124;1;16;Jo√£o Suplicy;270628;9081874;0,99
+1538;Naquele Dia;124;1;16;Jo√£o Suplicy;251768;8452654;0,99
+1539;Equinocio;124;1;16;Jo√£o Suplicy;269008;8871455;0,99
+1540;Papel√£o;124;1;16;Jo√£o Suplicy;213263;7257390;0,99
+1541;Cuando Eu For Pro Ceu;124;1;16;Jo√£o Suplicy;118804;3948371;0,99
+1542;Do Nosso Amor;124;1;16;Jo√£o Suplicy;203415;6774566;0,99
+1543;Borogodo;124;1;16;Jo√£o Suplicy;208457;7104588;0,99
+1544;Cafezinho;124;1;16;Jo√£o Suplicy;180924;6031174;0,99
+1545;Enquanto O Dia N√£o Vem;124;1;16;Jo√£o Suplicy;220891;7248336;0,99
 1546;The Green Manalishi;125;1;3;NULL;205792;6720789;0,99
 1547;Living After Midnight;125;1;3;NULL;213289;7056785;0,99
 1548;Breaking The Law (Live);125;1;3;NULL;144195;4728246;0,99
@@ -1669,36 +1669,36 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 1668;Stairway To Heaven;138;1;1;Robert Plant;657293;21354766;0,99
 1669;Moby Dick;138;1;1;John Bonham/John Paul Jones;766354;25345841;0,99
 1670;Whole Lotta Love;138;1;1;John Bonham/John Paul Jones/Robert Plant/Willie Dixon;863895;28191437;0,99
-1671;Nat·lia;139;1;7;Renato Russo;235728;7640230;0,99
+1671;Nat√°lia;139;1;7;Renato Russo;235728;7640230;0,99
 1672;L'Avventura;139;1;7;Renato Russo;278256;9165769;0,99
-1673;M˙sica De Trabalho;139;1;7;Renato Russo;260231;8590671;0,99
-1674;Longe Do Meu Lado;139;1;7;Renato Russo - Marcelo Bonf·;266161;8655249;0,99
-1675;A Via L·ctea;139;1;7;Renato Russo;280084;9234879;0,99
-1676;M˙sica Ambiente;139;1;7;Renato Russo;247614;8234388;0,99
+1673;M√∫sica De Trabalho;139;1;7;Renato Russo;260231;8590671;0,99
+1674;Longe Do Meu Lado;139;1;7;Renato Russo - Marcelo Bonf√°;266161;8655249;0,99
+1675;A Via L√°ctea;139;1;7;Renato Russo;280084;9234879;0,99
+1676;M√∫sica Ambiente;139;1;7;Renato Russo;247614;8234388;0,99
 1677;Aloha;139;1;7;Renato Russo;325955;10793301;0,99
 1678;Soul Parsifal;139;1;7;Renato Russo - Marisa Monte;295053;9853589;0,99
 1679;Dezesseis;139;1;7;Renato Russo;323918;10573515;0,99
-1680;Mil PedaÁos;139;1;7;Renato Russo;203337;6643291;0,99
+1680;Mil Peda√ßos;139;1;7;Renato Russo;203337;6643291;0,99
 1681;Leila;139;1;7;Renato Russo;323056;10608239;0,99
-1682;1∫ De Julho;139;1;7;Renato Russo;290298;9619257;0,99
+1682;1¬∫ De Julho;139;1;7;Renato Russo;290298;9619257;0,99
 1683;Esperando Por Mim;139;1;7;Renato Russo;261668;8844133;0,99
-1684;Quando VocÍ Voltar;139;1;7;Renato Russo;173897;5781046;0,99
+1684;Quando Voc√™ Voltar;139;1;7;Renato Russo;173897;5781046;0,99
 1685;O Livro Dos Dias;139;1;7;Renato Russo;257253;8570929;0,99
-1686;Ser·;140;1;7;Dado Villa-Lobos/Marcelo Bonf·;148401;4826528;0,99
-1687;Ainda … Cedo;140;1;7;Dado Villa-Lobos/Ico Ouro-Preto/Marcelo Bonf·;236826;7796400;0,99
-1688;GeraÁ„o Coca-Cola;140;1;7;Renato Russo;141453;4625731;0,99
-1689;Eduardo E MÙnica;140;1;7;Renato Russo;271229;9026691;0,99
+1686;Ser√°;140;1;7;Dado Villa-Lobos/Marcelo Bonf√°;148401;4826528;0,99
+1687;Ainda √â Cedo;140;1;7;Dado Villa-Lobos/Ico Ouro-Preto/Marcelo Bonf√°;236826;7796400;0,99
+1688;Gera√ß√£o Coca-Cola;140;1;7;Renato Russo;141453;4625731;0,99
+1689;Eduardo E M√¥nica;140;1;7;Renato Russo;271229;9026691;0,99
 1690;Tempo Perdido;140;1;7;Renato Russo;302158;9963914;0,99
 1691;Indios;140;1;7;Renato Russo;258168;8610226;0,99
-1692;Que PaÌs … Este;140;1;7;Renato Russo;177606;5822124;0,99
+1692;Que Pa√≠s √â Este;140;1;7;Renato Russo;177606;5822124;0,99
 1693;Faroeste Caboclo;140;1;7;Renato Russo;543007;18092739;0,99
-1694;H· Tempos;140;1;7;Dado Villa-Lobos/Marcelo Bonf·;197146;6432922;0,99
-1695;Pais E Filhos;140;1;7;Dado Villa-Lobos/Marcelo Bonf·;308401;10130685;0,99
-1696;Meninos E Meninas;140;1;7;Dado Villa-Lobos/Marcelo Bonf·;203781;6667802;0,99
-1697;Vento No Litoral;140;1;7;Dado Villa-Lobos/Marcelo Bonf·;366445;12063806;0,99
-1698;PerfeiÁ„o;140;1;7;Dado Villa-Lobos/Marcelo Bonf·;276558;9258489;0,99
-1699;Giz;140;1;7;Dado Villa-Lobos/Marcelo Bonf·;202213;6677671;0,99
-1700;Dezesseis;140;1;7;Dado Villa-Lobos/Marcelo Bonf·;321724;10501773;0,99
+1694;H√° Tempos;140;1;7;Dado Villa-Lobos/Marcelo Bonf√°;197146;6432922;0,99
+1695;Pais E Filhos;140;1;7;Dado Villa-Lobos/Marcelo Bonf√°;308401;10130685;0,99
+1696;Meninos E Meninas;140;1;7;Dado Villa-Lobos/Marcelo Bonf√°;203781;6667802;0,99
+1697;Vento No Litoral;140;1;7;Dado Villa-Lobos/Marcelo Bonf√°;366445;12063806;0,99
+1698;Perfei√ß√£o;140;1;7;Dado Villa-Lobos/Marcelo Bonf√°;276558;9258489;0,99
+1699;Giz;140;1;7;Dado Villa-Lobos/Marcelo Bonf√°;202213;6677671;0,99
+1700;Dezesseis;140;1;7;Dado Villa-Lobos/Marcelo Bonf√°;321724;10501773;0,99
 1701;Antes Das Seis;140;1;7;Dado Villa-Lobos;189231;6296531;0,99
 1702;Are You Gonna Go My Way;141;1;1;Craig Ross/Lenny Kravitz;211591;6905135;0,99
 1703;Fly Away;141;1;1;Lenny Kravitz;221962;7322085;0,99
@@ -1717,21 +1717,21 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 1716;Black Velveteen;141;1;1;Lenny Kravitz;290899;9531301;0,99
 1717;Assim Caminha A Humanidade;142;1;7;NULL;210755;6993763;0,99
 1718;Honolulu;143;1;7;NULL;261433;8558481;0,99
-1719;Dancin¥Days;143;1;7;NULL;237400;7875347;0,99
+1719;Dancin¬¥Days;143;1;7;NULL;237400;7875347;0,99
 1720;Um Pro Outro;142;1;7;NULL;236382;7825215;0,99
 1721;Aviso Aos Navegantes;143;1;7;NULL;242808;8058651;0,99
 1722;Casa;142;1;7;NULL;307591;10107269;0,99
-1723;CondiÁ„o;142;1;7;NULL;263549;8778465;0,99
+1723;Condi√ß√£o;142;1;7;NULL;263549;8778465;0,99
 1724;Hyperconectividade;143;1;7;NULL;180636;5948039;0,99
 1725;O Descobridor Dos Sete Mares;143;1;7;NULL;225854;7475780;0,99
-1726;SatisfaÁ„o;142;1;7;NULL;208065;6901681;0,99
-1727;Brum·rio;142;1;7;NULL;216241;7243499;0,99
-1728;Um Certo AlguÈm;143;1;7;NULL;194063;6430939;0,99
-1729;Fullg·s;143;1;7;NULL;346070;11505484;0,99
-1730;S·bado ¿ Noite;142;1;7;NULL;193854;6435114;0,99
+1726;Satisfa√ß√£o;142;1;7;NULL;208065;6901681;0,99
+1727;Brum√°rio;142;1;7;NULL;216241;7243499;0,99
+1728;Um Certo Algu√©m;143;1;7;NULL;194063;6430939;0,99
+1729;Fullg√°s;143;1;7;NULL;346070;11505484;0,99
+1730;S√°bado √Ä Noite;142;1;7;NULL;193854;6435114;0,99
 1731;A Cura;142;1;7;NULL;280920;9260588;0,99
 1732;Aquilo;143;1;7;NULL;246073;8167819;0,99
-1733;Atr·s Do Trio ElÈtrico;142;1;7;NULL;149080;4917615;0,99
+1733;Atr√°s Do Trio El√©trico;142;1;7;NULL;149080;4917615;0,99
 1734;Senta A Pua;143;1;7;NULL;217547;7205844;0,99
 1735;Ro-Que-Se-Da-Ne;143;1;7;NULL;146703;4805897;0,99
 1736;Tudo Bem;142;1;7;NULL;196101;6419139;0,99
@@ -1739,10 +1739,10 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 1738;Tudo Igual;143;1;7;NULL;276035;9201645;0,99
 1739;Fogo De Palha;143;1;7;NULL;246804;8133732;0,99
 1740;Sereia;142;1;7;NULL;278047;9121087;0,99
-1741;Assaltaram A Gram·tica;143;1;7;NULL;261041;8698959;0,99
-1742;Se VocÍ Pensa;142;1;7;NULL;195996;6552490;0,99
-1743;L· Vem O Sol (Here Comes The Sun);142;1;7;NULL;189492;6229645;0,99
-1744;O ⁄ltimo Rom‚ntico (Ao Vivo);143;1;7;NULL;231993;7692697;0,99
+1741;Assaltaram A Gram√°tica;143;1;7;NULL;261041;8698959;0,99
+1742;Se Voc√™ Pensa;142;1;7;NULL;195996;6552490;0,99
+1743;L√° Vem O Sol (Here Comes The Sun);142;1;7;NULL;189492;6229645;0,99
+1744;O √öltimo Rom√¢ntico (Ao Vivo);143;1;7;NULL;231993;7692697;0,99
 1745;Pseudo Silk Kimono;144;1;1;Kelly, Mosley, Rothery, Trewaves;134739;4334038;0,99
 1746;Kayleigh;144;1;1;Kelly, Mosley, Rothery, Trewaves;234605;7716005;0,99
 1747;Lavender;144;1;1;Kelly, Mosley, Rothery, Trewaves;153417;4999814;0,99
@@ -1756,30 +1756,30 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 1755;Arrepio;145;1;7;Carlinhos Brown;136254;4511390;0,99
 1756;Magamalabares;145;1;7;Carlinhos Brown;215875;7183757;0,99
 1757;Chuva No Brejo;145;1;7;Morais;145606;4857761;0,99
-1758;CÈrebro EletrÙnico;145;1;7;Gilberto Gil;172800;5760864;0,99
+1758;C√©rebro Eletr√¥nico;145;1;7;Gilberto Gil;172800;5760864;0,99
 1759;Tempos Modernos;145;1;7;Lulu Santos;183066;6066234;0,99
-1760;MaraÁ·;145;1;7;Carlinhos Brown;230008;7621482;0,99
-1761;Blanco;145;1;7;Marisa Monte/poema de Octavio Paz/vers„o: Haroldo de Campos;45191;1454532;0,99
+1760;Mara√ß√°;145;1;7;Carlinhos Brown;230008;7621482;0,99
+1761;Blanco;145;1;7;Marisa Monte/poema de Octavio Paz/vers√£o: Haroldo de Campos;45191;1454532;0,99
 1762;Panis Et Circenses;145;1;7;Caetano Veloso e Gilberto Gil;192339;6318373;0,99
 1763;De Noite Na Cama;145;1;7;Caetano Veloso e Gilberto Gil;209005;7012658;0,99
 1764;Beija Eu;145;1;7;Caetano Veloso e Gilberto Gil;197276;6512544;0,99
 1765;Give Me Love;145;1;7;Caetano Veloso e Gilberto Gil;249808;8196331;0,99
 1766;Ainda Lembro;145;1;7;Caetano Veloso e Gilberto Gil;218801;7211247;0,99
-1767;A Menina DanÁa;145;1;7;Caetano Veloso e Gilberto Gil;129410;4326918;0,99
-1768;DanÁa Da Solid„o;145;1;7;Caetano Veloso e Gilberto Gil;203520;6699368;0,99
+1767;A Menina Dan√ßa;145;1;7;Caetano Veloso e Gilberto Gil;129410;4326918;0,99
+1768;Dan√ßa Da Solid√£o;145;1;7;Caetano Veloso e Gilberto Gil;203520;6699368;0,99
 1769;Ao Meu Redor;145;1;7;Caetano Veloso e Gilberto Gil;275591;9158834;0,99
 1770;Bem Leve;145;1;7;Caetano Veloso e Gilberto Gil;159190;5246835;0,99
 1771;Segue O Seco;145;1;7;Caetano Veloso e Gilberto Gil;178207;5922018;0,99
 1772;O Xote Das Meninas;145;1;7;Caetano Veloso e Gilberto Gil;291866;9553228;0,99
 1773;Wherever I Lay My Hat;146;1;14;NULL;136986;4477321;0,99
 1774;Get My Hands On Some Lovin';146;1;14;NULL;149054;4860380;0,99
-1775;No Good Without You;146;1;14;"William ""Mickey"" Stevenson";161410;5259218;0,99
+1775;No Good Without You;146;1;14;William Mickey Stevenson;161410;5259218;0,99
 1776;You've Been A Long Time Coming;146;1;14;Brian Holland/Eddie Holland/Lamont Dozier;137221;4437949;0,99
-1777;When I Had Your Love;146;1;14;"Robert Rogers/Warren ""Pete"" Moore/William ""Mickey"" Stevenson";152424;4972815;0,99
+1777;When I Had Your Love;146;1;14;Robert Rogers/Warren Pete Moore/William Mickey Stevenson;152424;4972815;0,99
 1778;You're What's Happening (In The World Today);146;1;14;Allen Story/George Gordy/Robert Gordy;142027;4631104;0,99
 1779;Loving You Is Sweeter Than Ever;146;1;14;Ivy Hunter/Stevie Wonder;166295;5377546;0,99
-1780;It's A Bitter Pill To Swallow;146;1;14;"Smokey Robinson/Warren ""Pete"" Moore";194821;6477882;0,99
-1781;Seek And You Shall Find;146;1;14;"Ivy Hunter/William ""Mickey"" Stevenson";223451;7306719;0,99
+1780;It's A Bitter Pill To Swallow;146;1;14;Smokey Robinson/Warren Pete Moore;194821;6477882;0,99
+1781;Seek And You Shall Find;146;1;14;Ivy Hunter/William Mickey Stevenson;223451;7306719;0,99
 1782;Gonna Keep On Tryin' Till I Win Your Love;146;1;14;Barrett Strong/Norman Whitfield;176404;5789945;0,99
 1783;Gonna Give Her All The Love I've Got;146;1;14;Barrett Strong/Norman Whitfield;210886;6893603;0,99
 1784;I Wish It Would Rain;146;1;14;Barrett Strong/Norman Whitfield/Roger Penzabene;172486;5647327;0,99
@@ -1914,24 +1914,24 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 1913;Blues For Pablo (Alternate Take);157;1;2;Gil Evans;212558;6900619;0,99
 1914;The Meaning Of The Blues/Lament (Alternate Take);157;1;2;J.J. Johnson/R. Troup, L. Worth;309786;9912387;0,99
 1915;I Don't Wanna Be Kissed (By Anyone But You) (Alternate Take);157;1;2;H. Spina, J. Elliott;192078;6254796;0,99
-1916;CoraÁ„o De Estudante;158;1;7;Wagner Tiso, Milton Nascimento;238550;7797308;0,99
+1916;Cora√ß√£o De Estudante;158;1;7;Wagner Tiso, Milton Nascimento;238550;7797308;0,99
 1917;A Noite Do Meu Bem;158;1;7;Dolores Duran;220081;7125225;0,99
-1918;Paisagem Na Janela;158;1;7;LÙ Borges, Fernando Brant;197694;6523547;0,99
+1918;Paisagem Na Janela;158;1;7;L√¥ Borges, Fernando Brant;197694;6523547;0,99
 1919;Cuitelinho;158;1;7;Folclore;209397;6803970;0,99
-1920;Caxang·;158;1;7;Milton Nascimento, Fernando Brant;245551;8144179;0,99
+1920;Caxang√°;158;1;7;Milton Nascimento, Fernando Brant;245551;8144179;0,99
 1921;Nos Bailes Da Vida;158;1;7;Milton Nascimento, Fernando Brant;275748;9126170;0,99
 1922;Menestrel Das Alagoas;158;1;7;Milton Nascimento, Fernando Brant;199758;6542289;0,99
 1923;Brasil;158;1;7;Milton Nascimento, Fernando Brant;155428;5252560;0,99
-1924;CanÁ„o Do Novo Mundo;158;1;7;Beto Guedes, Ronaldo Bastos;215353;7032626;0,99
+1924;Can√ß√£o Do Novo Mundo;158;1;7;Beto Guedes, Ronaldo Bastos;215353;7032626;0,99
 1925;Um Gosto De Sol;158;1;7;Milton Nascimento, Ronaldo Bastos;307200;9893875;0,99
 1926;Solar;158;1;7;Milton Nascimento, Fernando Brant;156212;5098288;0,99
-1927;Para Lennon E McCartney;158;1;7;LÙ Borges, M·rcio Borges, Fernando Brant;321828;10626920;0,99
+1927;Para Lennon E McCartney;158;1;7;L√¥ Borges, M√°rcio Borges, Fernando Brant;321828;10626920;0,99
 1928;Maria, Maria;158;1;7;Milton Nascimento, Fernando Brant;72463;2371543;0,99
 1929;Minas;159;1;7;Milton Nascimento, Caetano Veloso;152293;4921056;0,99
-1930;FÈ Cega, Faca Amolada;159;1;7;Milton Nascimento, Ronaldo Bastos;278099;9258649;0,99
+1930;F√© Cega, Faca Amolada;159;1;7;Milton Nascimento, Ronaldo Bastos;278099;9258649;0,99
 1931;Beijo Partido;159;1;7;Toninho Horta;229564;7506969;0,99
-1932;Saudade Dos Aviıes Da Panair (Conversando No Bar);159;1;7;Milton Nascimento, Fernando Brant;268721;8805088;0,99
-1933;Gran Circo;159;1;7;Milton Nascimento, M·rcio Borges;251297;8237026;0,99
+1932;Saudade Dos Avi√µes Da Panair (Conversando No Bar);159;1;7;Milton Nascimento, Fernando Brant;268721;8805088;0,99
+1933;Gran Circo;159;1;7;Milton Nascimento, M√°rcio Borges;251297;8237026;0,99
 1934;Ponta de Areia;159;1;7;Milton Nascimento, Fernando Brant;272796;8874285;0,99
 1935;Trastevere;159;1;7;Milton Nascimento, Ronaldo Bastos;265665;8708399;0,99
 1936;Idolatrada;159;1;7;Milton Nascimento, Fernando Brant;286249;9426153;0,99
@@ -1939,7 +1939,7 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 1938;Paula E Bebeto;159;1;7;Milton Nascimento, Caetano Veloso;135732;4583956;0,99
 1939;Simples;159;1;7;Nelson Angelo;133093;4326333;0,99
 1940;Norwegian Wood;159;1;7;John Lennon, Paul McCartney;413910;13520382;0,99
-1941;Caso VocÍ Queira Saber;159;1;7;Beto Guedes, M·rcio Borges;205688;6787901;0,99
+1941;Caso Voc√™ Queira Saber;159;1;7;Beto Guedes, M√°rcio Borges;205688;6787901;0,99
 1942;Ace Of Spades;160;1;3;Clarke/Kilmister/Taylor;169926;5523552;0,99
 1943;Love Me Like A Reptile;160;1;3;Clarke/Kilmister/Taylor;203546;6616389;0,99
 1944;Shoot You In The Back;160;1;3;Clarke/Kilmister/Taylor;160026;5175327;0,99
@@ -1955,18 +1955,18 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 1954;Dirty Love;160;1;3;Clarke/Kilmister/Taylor;176457;5805241;0,99
 1955;Please Don't Touch;160;1;3;Heath/Robinson;169926;5557002;0,99
 1956;Emergency;160;1;3;Dufort/Johnson/McAuliffe/Williams;180427;5828728;0,99
-1957;Kir Royal;161;1;16;MÙnica Marianno;234788;7706552;0,99
-1958;O Que Vai Em Meu CoraÁ„o;161;1;16;MÙnica Marianno;255373;8366846;0,99
-1959;Aos Leıes;161;1;16;MÙnica Marianno;234684;7790574;0,99
-1960;Dois Õndios;161;1;16;MÙnica Marianno;219271;7213072;0,99
-1961;Noite Negra;161;1;16;MÙnica Marianno;206811;6819584;0,99
-1962;Beijo do Olhar;161;1;16;MÙnica Marianno;252682;8369029;0,99
-1963;… Fogo;161;1;16;MÙnica Marianno;194873;6501520;0,99
-1964;J· Foi;161;1;16;MÙnica Marianno;245681;8094872;0,99
-1965;SÛ Se For Pelo Cabelo;161;1;16;MÙnica Marianno;238288;8006345;0,99
-1966;No Clima;161;1;16;MÙnica Marianno;249495;8362040;0,99
-1967;A MoÁa e a Chuva;161;1;16;MÙnica Marianno;274625;8929357;0,99
-1968;Demorou!;161;1;16;MÙnica Marianno;39131;1287083;0,99
+1957;Kir Royal;161;1;16;M√¥nica Marianno;234788;7706552;0,99
+1958;O Que Vai Em Meu Cora√ß√£o;161;1;16;M√¥nica Marianno;255373;8366846;0,99
+1959;Aos Le√µes;161;1;16;M√¥nica Marianno;234684;7790574;0,99
+1960;Dois √çndios;161;1;16;M√¥nica Marianno;219271;7213072;0,99
+1961;Noite Negra;161;1;16;M√¥nica Marianno;206811;6819584;0,99
+1962;Beijo do Olhar;161;1;16;M√¥nica Marianno;252682;8369029;0,99
+1963;√â Fogo;161;1;16;M√¥nica Marianno;194873;6501520;0,99
+1964;J√° Foi;161;1;16;M√¥nica Marianno;245681;8094872;0,99
+1965;S√≥ Se For Pelo Cabelo;161;1;16;M√¥nica Marianno;238288;8006345;0,99
+1966;No Clima;161;1;16;M√¥nica Marianno;249495;8362040;0,99
+1967;A Mo√ßa e a Chuva;161;1;16;M√¥nica Marianno;274625;8929357;0,99
+1968;Demorou!;161;1;16;M√¥nica Marianno;39131;1287083;0,99
 1969;Bitter Pill;162;1;3;Mick Mars/Nikki Sixx/Tommy Lee/Vince Neil;266814;8666786;0,99
 1970;Enslaved;162;1;3;Mick Mars/Nikki Sixx/Tommy Lee;269844;8789966;0,99
 1971;Girls, Girls, Girls;162;1;3;Mick Mars/Nikki Sixx/Tommy Lee;270288;8874814;0,99
@@ -2014,57 +2014,57 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 2013;On A Plain;164;1;1;Kurt Cobain;196440;6390635;0,99
 2014;Something In The Way;164;1;1;Kurt Cobain;230556;7472168;0,99
 2015;Time;165;1;1;NULL;96888;3124455;0,99
-2016;P.S.ApareÁa;165;1;1;NULL;209188;6842244;0,99
+2016;P.S.Apare√ßa;165;1;1;NULL;209188;6842244;0,99
 2017;Sangue Latino;165;1;1;NULL;223033;7354184;0,99
 2018;Folhas Secas;165;1;1;NULL;161253;5284522;0,99
 2019;Poeira;165;1;1;NULL;267075;8784141;0,99
-2020;M·gica;165;1;1;NULL;233743;7627348;0,99
+2020;M√°gica;165;1;1;NULL;233743;7627348;0,99
 2021;Quem Mata A Mulher Mata O Melhor;165;1;1;NULL;262791;8640121;0,99
-2022;MundarÈu;165;1;1;NULL;217521;7158975;0,99
-2023;O BraÁo Da Minha Guitarra;165;1;1;NULL;258351;8469531;0,99
+2022;Mundar√©u;165;1;1;NULL;217521;7158975;0,99
+2023;O Bra√ßo Da Minha Guitarra;165;1;1;NULL;258351;8469531;0,99
 2024;Deus;165;1;1;NULL;284160;9188110;0,99
-2025;M„e Terra;165;1;1;NULL;306625;9949269;0,99
-2026;¿s Vezes;165;1;1;NULL;330292;10706614;0,99
+2025;M√£e Terra;165;1;1;NULL;306625;9949269;0,99
+2026;√Äs Vezes;165;1;1;NULL;330292;10706614;0,99
 2027;Menino De Rua;165;1;1;NULL;329795;10784595;0,99
-2028;Prazer E FÈ;165;1;1;NULL;214831;7031383;0,99
+2028;Prazer E F√©;165;1;1;NULL;214831;7031383;0,99
 2029;Elza;165;1;1;NULL;199105;6517629;0,99
 2030;Requebra;166;1;7;NULL;240744;8010811;0,99
-2031;Nossa Gente (Avisa L‡);166;1;7;NULL;188212;6233201;0,99
+2031;Nossa Gente (Avisa L√†);166;1;7;NULL;188212;6233201;0,99
 2032;Olodum - Alegria Geral;166;1;7;NULL;233404;7754245;0,99
-2033;Madag·scar Olodum;166;1;7;NULL;252264;8270584;0,99
-2034;FaraÛ Divindade Do Egito;166;1;7;NULL;228571;7523278;0,99
+2033;Madag√°scar Olodum;166;1;7;NULL;252264;8270584;0,99
+2034;Fara√≥ Divindade Do Egito;166;1;7;NULL;228571;7523278;0,99
 2035;Todo Amor (Asas Da Liberdade);166;1;7;NULL;245133;8121434;0,99
-2036;Den˙ncia;166;1;7;NULL;159555;5327433;0,99
-2037;Olodum, A Banda Do PelÙ;166;1;7;NULL;146599;4900121;0,99
+2036;Den√∫ncia;166;1;7;NULL;159555;5327433;0,99
+2037;Olodum, A Banda Do Pel√¥;166;1;7;NULL;146599;4900121;0,99
 2038;Cartao Postal;166;1;7;NULL;211565;7082301;0,99
 2039;Jeito Faceiro;166;1;7;NULL;217286;7233608;0,99
 2040;Revolta Olodum;166;1;7;NULL;230191;7557065;0,99
-2041;Reggae Odoy·;166;1;7;NULL;224470;7499807;0,99
+2041;Reggae Odoy√°;166;1;7;NULL;224470;7499807;0,99
 2042;Protesto Do Olodum (Ao Vivo);166;1;7;NULL;206001;6766104;0,99
 2043;Olodum - Smile (Instrumental);166;1;7;NULL;235833;7871409;0,99
-2044;Vulc„o Dub - Fui Eu;167;1;7;Bi Ribeira/Herbert Vianna/Jo„o Barone;287059;9495202;0,99
+2044;Vulc√£o Dub - Fui Eu;167;1;7;Bi Ribeira/Herbert Vianna/Jo√£o Barone;287059;9495202;0,99
 2045;O Trem Da Juventude;167;1;7;Herbert Vianna;225880;7507655;0,99
-2046;Manguetown;167;1;7;Chico Science/Dengue/L˙cio Maia;162925;5382018;0,99
+2046;Manguetown;167;1;7;Chico Science/Dengue/L√∫cio Maia;162925;5382018;0,99
 2047;Um Amor, Um Lugar;167;1;7;Herbert Vianna;184555;6090334;0,99
 2048;Bora-Bora;167;1;7;Herbert Vianna;182987;6036046;0,99
 2049;Vai Valer;167;1;7;Herbert Vianna;206524;6899778;0,99
 2050;I Feel Good (I Got You) - Sossego;167;1;7;James Brown/Tim Maia;244976;8091302;0,99
 2051;Uns Dias;167;1;7;Herbert Vianna;240796;7931552;0,99
-2052;Sincero Breu;167;1;7;C. A./C.A./Celso Alvim/Herbert Vianna/M·rio Moura/Pedro LuÌs/Sidon Silva;208013;6921669;0,99
+2052;Sincero Breu;167;1;7;C. A./C.A./Celso Alvim/Herbert Vianna/M√°rio Moura/Pedro Lu√≠s/Sidon Silva;208013;6921669;0,99
 2053;Meu Erro;167;1;7;Herbert Vianna;188577;6192791;0,99
-2054;Selvagem;167;1;7;Bi Ribeiro/Herbert Vianna/Jo„o Barone;148558;4942831;0,99
-2055;BrasÌlia 5:31;167;1;7;Herbert Vianna;178337;5857116;0,99
+2054;Selvagem;167;1;7;Bi Ribeiro/Herbert Vianna/Jo√£o Barone;148558;4942831;0,99
+2055;Bras√≠lia 5:31;167;1;7;Herbert Vianna;178337;5857116;0,99
 2056;Tendo A Lua;167;1;7;Herbert Vianna/Tet Tillett;198922;6568180;0,99
-2057;Que PaÌs … Este;167;1;7;Renato Russo;216685;7137865;0,99
+2057;Que Pa√≠s √â Este;167;1;7;Renato Russo;216685;7137865;0,99
 2058;Navegar Impreciso;167;1;7;Herbert Vianna;262870;8761283;0,99
 2059;Feira Moderna;167;1;7;Beto Guedes/Fernando Brant/L Borges;182517;6001793;0,99
 2060;Tequila - Lourinha Bombril (Parate Y Mira);167;1;7;Bahiano/Chuck Rio/Diego Blanco/Herbert Vianna;255738;8514961;0,99
-2061;Vamo BatÍ Lata;167;1;7;Herbert Vianna;228754;7585707;0,99
+2061;Vamo Bat√™ Lata;167;1;7;Herbert Vianna;228754;7585707;0,99
 2062;Life During Wartime;167;1;7;Chris Frantz/David Byrne/Jerry Harrison/Tina Weymouth;259186;8543439;0,99
 2063;Nebulosa Do Amor;167;1;7;Herbert Vianna;203415;6732496;0,99
-2064;CaleidoscÛpio;167;1;7;Herbert Vianna;256522;8484597;0,99
+2064;Caleidosc√≥pio;167;1;7;Herbert Vianna;256522;8484597;0,99
 2065;Trac Trac;168;1;7;Fito Paez/Herbert Vianna;231653;7638256;0,99
-2066;Tendo A Lua;168;1;7;Herbert Vianna/TetÍ Tillet;219585;7342776;0,99
+2066;Tendo A Lua;168;1;7;Herbert Vianna/Tet√™ Tillet;219585;7342776;0,99
 2067;Mensagen De Amor (2000);168;1;7;Herbert Vianna;183588;6061324;0,99
 2068;Lourinha Bombril;168;1;7;Bahiano/Diego Blanco/Herbert Vianna;159895;5301882;0,99
 2069;La Bella Luna;168;1;7;Herbert Vianna;192653;6428598;0,99
@@ -2074,13 +2074,13 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 2073;Saber Amar;168;1;7;Herbert Vianna;202788;6723733;0,99
 2074;Ela Disse Adeus;168;1;7;Herbert Vianna;226298;7608999;0,99
 2075;O Amor Nao Sabe Esperar;168;1;7;Herbert Vianna;241084;8042534;0,99
-2076;Aonde Quer Que Eu Va;168;1;7;Herbert Vianna/Paulo SÈrgio Valle;258089;8470121;0,99
-2077;CaleidoscÛpio;169;1;7;NULL;211330;7000017;0,99
-2078;”culos;169;1;7;NULL;219271;7262419;0,99
+2076;Aonde Quer Que Eu Va;168;1;7;Herbert Vianna/Paulo S√©rgio Valle;258089;8470121;0,99
+2077;Caleidosc√≥pio;169;1;7;NULL;211330;7000017;0,99
+2078;√ìculos;169;1;7;NULL;219271;7262419;0,99
 2079;Cinema Mudo;169;1;7;NULL;227918;7612168;0,99
 2080;Alagados;169;1;7;NULL;302393;10255463;0,99
 2081;Lanterna Dos Afogados;169;1;7;NULL;190197;6264318;0,99
-2082;MelÙ Do Marinheiro;169;1;7;NULL;208352;6905668;0,99
+2082;Mel√¥ Do Marinheiro;169;1;7;NULL;208352;6905668;0,99
 2083;Vital E Sua Moto;169;1;7;NULL;210207;6902878;0,99
 2084;O Beco;169;1;7;NULL;189178;6293184;0,99
 2085;Meu Erro;169;1;7;NULL;208431;6893533;0,99
@@ -2089,7 +2089,7 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 2088;Quase Um Segundo;169;1;7;NULL;275644;8971355;0,99
 2089;Selvagem;169;1;7;NULL;245890;8141084;0,99
 2090;Romance Ideal;169;1;7;NULL;250070;8260477;0,99
-2091;Ser· Que Vai Chover?;169;1;7;NULL;337057;11133830;0,99
+2091;Ser√° Que Vai Chover?;169;1;7;NULL;337057;11133830;0,99
 2092;SKA;169;1;7;NULL;148871;4943540;0,99
 2093;Bark at the Moon;170;2;1;O. Osbourne;257252;4601224;0,99
 2094;I Don't Know;171;2;1;B. Daisley, O. Osbourne & R. Rhoads;312980;5525339;0,99
@@ -2242,8 +2242,8 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 2241;Bossa;184;1;17;NULL;29048;967098;0,99
 2242;100% HardCore;184;1;17;NULL;165146;5407744;0,99
 2243;Biruta;184;1;17;NULL;213263;7108200;0,99
-2244;M„o Na CabeÁa;184;1;17;NULL;202631;6642753;0,99
-2245;O Bicho T· Pregando;184;1;17;NULL;171964;5683369;0,99
+2244;M√£o Na Cabe√ßa;184;1;17;NULL;202631;6642753;0,99
+2245;O Bicho T√° Pregando;184;1;17;NULL;171964;5683369;0,99
 2246;Adoled (Ocean);184;1;17;NULL;185103;6009946;0,99
 2247;Seus Amigos;184;1;17;NULL;100858;3304738;0,99
 2248;Paga Pau;184;1;17;NULL;197485;6529041;0,99
@@ -2337,9 +2337,9 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 2336;Papeau Nuky Doe;191;1;4;Rodolfo;121652;3995022;0,99
 2337;Merry Christmas;191;1;4;Rodolfo;126040;4166652;0,99
 2338;Bodies;191;1;4;Rodolfo;180035;5873778;0,99
-2339;Puteiro Em Jo„o Pessoa;191;1;4;Rodolfo;195578;6395490;0,99
+2339;Puteiro Em Jo√£o Pessoa;191;1;4;Rodolfo;195578;6395490;0,99
 2340;Esporrei Na Manivela;191;1;4;Rodolfo;293276;9618499;0,99
-2341;BÍ-a-B·;191;1;4;Rodolfo;249051;8130636;0,99
+2341;B√™-a-B√°;191;1;4;Rodolfo;249051;8130636;0,99
 2342;Cajueiro;191;1;4;Rodolfo;158589;5164837;0,99
 2343;Palhas Do Coqueiro;191;1;4;Rodolfo;133851;4396466;0,99
 2344;Maluco Beleza;192;1;1;NULL;203206;6628067;0,99
@@ -2350,11 +2350,11 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 2349;Mata Virgem;192;1;1;NULL;142602;4690029;0,99
 2350;Sapato 36;192;1;1;NULL;196702;6507301;0,99
 2351;Todo Mundo Explica;192;1;1;NULL;134896;4449772;0,99
-2352;Que Luz … Essa;192;1;1;NULL;165067;5620058;0,99
+2352;Que Luz √â Essa;192;1;1;NULL;165067;5620058;0,99
 2353;Diamante De Mendigo;192;1;1;NULL;206053;6775101;0,99
-2354;NegÛcio …;192;1;1;NULL;175464;5826775;0,99
-2355;Muita Estrela, Pouca ConstelaÁ„o;192;1;1;NULL;268068;8781021;0,99
-2356;SÈculo XXI;192;1;1;NULL;244897;8040563;0,99
+2354;Neg√≥cio √â;192;1;1;NULL;175464;5826775;0,99
+2355;Muita Estrela, Pouca Constela√ß√£o;192;1;1;NULL;268068;8781021;0,99
+2356;S√©culo XXI;192;1;1;NULL;244897;8040563;0,99
 2357;Rock Das Aranhas (Ao Vivo) (Live);192;1;1;NULL;231836;7591945;0,99
 2358;The Power Of Equality;193;1;4;Anthony Kiedis/Chad Smith/Flea/John Frusciante;243591;8148266;0,99
 2359;If You Have To Ask;193;1;4;Anthony Kiedis/Chad Smith/Flea/John Frusciante;216790;7199175;0,99
@@ -2447,29 +2447,29 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 2446;So Beautiful;141;1;1;Mick Hucknall;298083;9837832;0,99
 2447;Angel;141;1;1;Carolyn Franklin and Sonny Saunders;240561;7880256;0,99
 2448;Fairground;141;1;1;Mick Hucknall;263888;8793094;0,99
-2449;¡gua E Fogo;199;1;1;Chico Amaral/Edgard Scandurra/Samuel Rosa;278987;9272272;0,99
-2450;TrÍs Lados;199;1;1;Chico Amaral/Samuel Rosa;233665;7699609;0,99
+2449;√Ågua E Fogo;199;1;1;Chico Amaral/Edgard Scandurra/Samuel Rosa;278987;9272272;0,99
+2450;Tr√™s Lados;199;1;1;Chico Amaral/Samuel Rosa;233665;7699609;0,99
 2451;Ela Desapareceu;199;1;1;Chico Amaral/Samuel Rosa;250122;8289200;0,99
-2452;Balada Do Amor Inabal·vel;199;1;1;Fausto Fawcett/Samuel Rosa;240613;8025816;0,99
-2453;CanÁ„o Noturna;199;1;1;Chico Amaral/Lelo Zanettik;238628;7874774;0,99
-2454;MuÁulmano;199;1;1;Le„o, Rodrigo F./Samuel Rosa;249600;8270613;0,99
+2452;Balada Do Amor Inabal√°vel;199;1;1;Fausto Fawcett/Samuel Rosa;240613;8025816;0,99
+2453;Can√ß√£o Noturna;199;1;1;Chico Amaral/Lelo Zanettik;238628;7874774;0,99
+2454;Mu√ßulmano;199;1;1;Le√£o, Rodrigo F./Samuel Rosa;249600;8270613;0,99
 2455;Maquinarama;199;1;1;Chico Amaral/Samuel Rosa;245629;8213710;0,99
-2456;Rebeli„o;199;1;1;Chico Amaral/Samuel Rosa;298527;9817847;0,99
-2457;A ⁄ltima Guerra;199;1;1;Le„o, Rodrigo F./LÙ Borges/Samuel Rosa;314723;10480391;0,99
+2456;Rebeli√£o;199;1;1;Chico Amaral/Samuel Rosa;298527;9817847;0,99
+2457;A √öltima Guerra;199;1;1;Le√£o, Rodrigo F./L√¥ Borges/Samuel Rosa;314723;10480391;0,99
 2458;Fica;199;1;1;Chico Amaral/Samuel Rosa;272169;8980972;0,99
 2459;Ali;199;1;1;Nando Reis/Samuel Rosa;306390;10110351;0,99
-2460;Preto Dami„o;199;1;1;Chico Amaral/Samuel Rosa;264568;8697658;0,99
-2461;… Uma Partida De Futebol;200;1;1;Samuel Rosa;1071;38747;0,99
+2460;Preto Dami√£o;199;1;1;Chico Amaral/Samuel Rosa;264568;8697658;0,99
+2461;√â Uma Partida De Futebol;200;1;1;Samuel Rosa;1071;38747;0,99
 2462;Eu Disse A Ela;200;1;1;Samuel Rosa;254223;8479463;0,99
-2463;ZÈ Trindade;200;1;1;Samuel Rosa;247954;8331310;0,99
+2463;Z√© Trindade;200;1;1;Samuel Rosa;247954;8331310;0,99
 2464;Garota Nacional;200;1;1;Samuel Rosa;317492;10511239;0,99
-2465;T„o Seu;200;1;1;Samuel Rosa;243748;8133126;0,99
+2465;T√£o Seu;200;1;1;Samuel Rosa;243748;8133126;0,99
 2466;Sem Terra;200;1;1;Samuel Rosa;279353;9196411;0,99
 2467;Os Exilados;200;1;1;Samuel Rosa;245551;8222095;0,99
 2468;Um Dia Qualquer;200;1;1;Samuel Rosa;292414;9805570;0,99
 2469;Los Pretos;200;1;1;Samuel Rosa;239229;8025667;0,99
-2470;Sul Da AmÈrica;200;1;1;Samuel Rosa;254928;8484871;0,99
-2471;PoconÈ;200;1;1;Samuel Rosa;318406;10771610;0,99
+2470;Sul Da Am√©rica;200;1;1;Samuel Rosa;254928;8484871;0,99
+2471;Pocon√©;200;1;1;Samuel Rosa;318406;10771610;0,99
 2472;Lucky 13;201;1;4;Billy Corgan;189387;6200617;0,99
 2473;Aeroplane Flies High;201;1;4;Billy Corgan;473391;15408329;0,99
 2474;Because You Are;201;1;4;Billy Corgan;226403;7405137;0,99
@@ -2752,71 +2752,71 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 2751;Primavera;222;1;7;Genival Cassiano/Silvio Rochael;126615;4152604;0,99
 2752;Chocolate;222;1;7;Tim Maia;194690;6411587;0,99
 2753;Azul Da Cor Do Mar;222;1;7;Tim Maia;197955;6475007;0,99
-2754;O Descobridor Dos Sete Mares;222;1;7;Gilson MendonÁa/Michel;262974;8749583;0,99
-2755;AtÈ Que Enfim Encontrei VocÍ;222;1;7;Tim Maia;105064;3477751;0,99
-2756;CoronÈ Antonio Bento;222;1;7;Do Vale, Jo„o/Luiz Wanderley;131317;4340326;0,99
+2754;O Descobridor Dos Sete Mares;222;1;7;Gilson Mendon√ßa/Michel;262974;8749583;0,99
+2755;At√© Que Enfim Encontrei Voc√™;222;1;7;Tim Maia;105064;3477751;0,99
+2756;Coron√© Antonio Bento;222;1;7;Do Vale, Jo√£o/Luiz Wanderley;131317;4340326;0,99
 2757;New Love;222;1;7;Tim Maia;237897;7786824;0,99
-2758;N„o Vou Ficar;222;1;7;Tim Maia;172068;5642919;0,99
-2759;M˙sica No Ar;222;1;7;Tim Maia;158511;5184891;0,99
-2760;Salve Nossa Senhora;222;1;7;Carlos Imperial/Edardo Ara˙jo;115461;3827629;0,99
-2761;VocÍ Fugiu;222;1;7;Genival Cassiano;238367;7971147;0,99
-2762;Cristina N∫ 2;222;1;7;Carlos Imperial/Tim Maia;90148;2978589;0,99
+2758;N√£o Vou Ficar;222;1;7;Tim Maia;172068;5642919;0,99
+2759;M√∫sica No Ar;222;1;7;Tim Maia;158511;5184891;0,99
+2760;Salve Nossa Senhora;222;1;7;Carlos Imperial/Edardo Ara√∫jo;115461;3827629;0,99
+2761;Voc√™ Fugiu;222;1;7;Genival Cassiano;238367;7971147;0,99
+2762;Cristina N¬∫ 2;222;1;7;Carlos Imperial/Tim Maia;90148;2978589;0,99
 2763;Compadre;222;1;7;Tim Maia;171389;5631446;0,99
 2764;Over Again;222;1;7;Tim Maia;200489;6612634;0,99
-2765;RÈu Confesso;222;1;7;Tim Maia;217391;7189874;0,99
+2765;R√©u Confesso;222;1;7;Tim Maia;217391;7189874;0,99
 2766;O Que Me Importa;223;1;7;NULL;153155;4977852;0,99
-2767;Gostava Tanto De VocÍ;223;1;7;NULL;253805;8380077;0,99
-2768;VocÍ;223;1;7;NULL;242599;7911702;0,99
-2769;N„o Quero Dinheiro;223;1;7;NULL;152607;5031797;0,99
-2770;Eu Amo VocÍ;223;1;7;NULL;242782;7914628;0,99
+2767;Gostava Tanto De Voc√™;223;1;7;NULL;253805;8380077;0,99
+2768;Voc√™;223;1;7;NULL;242599;7911702;0,99
+2769;N√£o Quero Dinheiro;223;1;7;NULL;152607;5031797;0,99
+2770;Eu Amo Voc√™;223;1;7;NULL;242782;7914628;0,99
 2771;A Festa Do Santo Reis;223;1;7;NULL;159791;5204995;0,99
 2772;I Don't Know What To Do With Myself;223;1;7;NULL;221387;7251478;0,99
-2773;Padre CÌcero;223;1;7;NULL;139598;4581685;0,99
+2773;Padre C√≠cero;223;1;7;NULL;139598;4581685;0,99
 2774;Nosso Adeus;223;1;7;NULL;206471;6793270;0,99
-2775;Can·rio Do Reino;223;1;7;NULL;139337;4552858;0,99
+2775;Can√°rio Do Reino;223;1;7;NULL;139337;4552858;0,99
 2776;Preciso Ser Amado;223;1;7;NULL;174001;5618895;0,99
-2777;BalanÁo;223;1;7;NULL;209737;6890327;0,99
-2778;Preciso Aprender A Ser SÛ;223;1;7;NULL;162220;5213894;0,99
-2779;Esta … A CanÁ„o;223;1;7;NULL;184450;6069933;0,99
+2777;Balan√ßo;223;1;7;NULL;209737;6890327;0,99
+2778;Preciso Aprender A Ser S√≥;223;1;7;NULL;162220;5213894;0,99
+2779;Esta √â A Can√ß√£o;223;1;7;NULL;184450;6069933;0,99
 2780;Formigueiro;223;1;7;NULL;252943;8455132;0,99
-2781;Comida;224;1;4;Tit„s;322612;10786578;0,99
-2782;Go Back;224;1;4;Tit„s;230504;7668899;0,99
-2783;Pr· Dizer Adeus;224;1;4;Tit„s;222484;7382048;0,99
-2784;FamÌlia;224;1;4;Tit„s;218331;7267458;0,99
-2785;Os Cegos Do Castelo;224;1;4;Tit„s;296829;9868187;0,99
-2786;O Pulso;224;1;4;Tit„s;199131;6566998;0,99
-2787;Marvin;224;1;4;Tit„s;264359;8741444;0,99
-2788;Nem 5 Minutos Guardados;224;1;4;Tit„s;245995;8143797;0,99
-2789;Flores;224;1;4;Tit„s;215510;7148017;0,99
-2790;Palavras;224;1;4;Tit„s;158458;5285715;0,99
-2791;Heredit·rio;224;1;4;Tit„s;151693;5020547;0,99
-2792;A Melhor Forma;224;1;4;Tit„s;191503;6349938;0,99
-2793;CabeÁa Dinossauro;224;1;4;Tit„s;37120;1220930;0,99
-2794;32 Dentes;224;1;4;Tit„s;184946;6157904;0,99
-2795;Bichos Escrotos (Vinheta);224;1;4;Tit„s;104986;3503755;0,99
-2796;N„o Vou Lutar;224;1;4;Tit„s;189988;6308613;0,99
-2797;Homem Primata (Vinheta);224;1;4;Tit„s;34168;1124909;0,99
-2798;Homem Primata;224;1;4;Tit„s;195500;6486470;0,99
-2799;PolÌcia (Vinheta);224;1;4;Tit„s;56111;1824213;0,99
-2800;Querem Meu Sangue;224;1;4;Tit„s;212401;7069773;0,99
-2801;Divers„o;224;1;4;Tit„s;285936;9531268;0,99
-2802;Televis„o;224;1;4;Tit„s;293668;9776548;0,99
+2781;Comida;224;1;4;Tit√£s;322612;10786578;0,99
+2782;Go Back;224;1;4;Tit√£s;230504;7668899;0,99
+2783;Pr√° Dizer Adeus;224;1;4;Tit√£s;222484;7382048;0,99
+2784;Fam√≠lia;224;1;4;Tit√£s;218331;7267458;0,99
+2785;Os Cegos Do Castelo;224;1;4;Tit√£s;296829;9868187;0,99
+2786;O Pulso;224;1;4;Tit√£s;199131;6566998;0,99
+2787;Marvin;224;1;4;Tit√£s;264359;8741444;0,99
+2788;Nem 5 Minutos Guardados;224;1;4;Tit√£s;245995;8143797;0,99
+2789;Flores;224;1;4;Tit√£s;215510;7148017;0,99
+2790;Palavras;224;1;4;Tit√£s;158458;5285715;0,99
+2791;Heredit√°rio;224;1;4;Tit√£s;151693;5020547;0,99
+2792;A Melhor Forma;224;1;4;Tit√£s;191503;6349938;0,99
+2793;Cabe√ßa Dinossauro;224;1;4;Tit√£s;37120;1220930;0,99
+2794;32 Dentes;224;1;4;Tit√£s;184946;6157904;0,99
+2795;Bichos Escrotos (Vinheta);224;1;4;Tit√£s;104986;3503755;0,99
+2796;N√£o Vou Lutar;224;1;4;Tit√£s;189988;6308613;0,99
+2797;Homem Primata (Vinheta);224;1;4;Tit√£s;34168;1124909;0,99
+2798;Homem Primata;224;1;4;Tit√£s;195500;6486470;0,99
+2799;Pol√≠cia (Vinheta);224;1;4;Tit√£s;56111;1824213;0,99
+2800;Querem Meu Sangue;224;1;4;Tit√£s;212401;7069773;0,99
+2801;Divers√£o;224;1;4;Tit√£s;285936;9531268;0,99
+2802;Televis√£o;224;1;4;Tit√£s;293668;9776548;0,99
 2803;Sonifera Ilha;225;1;4;Branco Mello/Carlos Barmack/Ciro Pessoa/Marcelo Fromer/Toni Belloto;170684;5678290;0,99
-2804;Lugar Nenhum;225;1;4;Arnaldo Antunes/Charles Gavin/Marcelo Fromer/SÈrgio Britto/Toni Bellotto;195840;6472780;0,99
+2804;Lugar Nenhum;225;1;4;Arnaldo Antunes/Charles Gavin/Marcelo Fromer/S√©rgio Britto/Toni Bellotto;195840;6472780;0,99
 2805;Sua Impossivel Chance;225;1;4;Nando Reis;246622;8073248;0,99
-2806;Desordem;225;1;4;Charles Gavin/Marcelo Fromer/SÈrgio Britto;213289;7067340;0,99
-2807;N„o Vou Me Adaptar;225;1;4;Arnaldo Antunes;221831;7304656;0,99
-2808;Domingo;225;1;4;SÈrgio Britto/Toni Bellotto;208613;6883180;0,99
-2809;Amanh„ N„o Se Sabe;225;1;4;SÈrgio Britto;189440;6243967;0,99
+2806;Desordem;225;1;4;Charles Gavin/Marcelo Fromer/S√©rgio Britto;213289;7067340;0,99
+2807;N√£o Vou Me Adaptar;225;1;4;Arnaldo Antunes;221831;7304656;0,99
+2808;Domingo;225;1;4;S√©rgio Britto/Toni Bellotto;208613;6883180;0,99
+2809;Amanh√£ N√£o Se Sabe;225;1;4;S√©rgio Britto;189440;6243967;0,99
 2810;Caras Como Eu;225;1;4;Toni Bellotto;183092;5999048;0,99
 2811;Senhora E Senhor;225;1;4;Arnaldo Anutnes/Marcelo Fromer/Paulo Miklos;203702;6733733;0,99
 2812;Era Uma Vez;225;1;4;Arnaldo Anutnes/Branco Mello/Marcelo Fromer/Sergio Brotto/Toni Bellotto;224261;7453156;0,99
-2813;MisÈria;225;1;4;Arnaldo Antunes/Britto, SergioMiklos, Paulo;262191;8727645;0,99
-2814;InsensÌvel;225;1;4;SÈrgio Britto;207830;6893664;0,99
+2813;Mis√©ria;225;1;4;Arnaldo Antunes/Britto, SergioMiklos, Paulo;262191;8727645;0,99
+2814;Insens√≠vel;225;1;4;S√©rgio Britto;207830;6893664;0,99
 2815;Eu E Ela;225;1;4;Nando Reis;276035;9138846;0,99
 2816;Toda Cor;225;1;4;Ciro Pressoa/Marcelo Fromer;209084;6939176;0,99
-2817;… Preciso Saber Viver;225;1;4;Erasmo Carlos/Roberto Carlos;251115;8271418;0,99
-2818;Senhor Delegado/Eu N„o Aguento;225;1;4;Antonio Lopes;156656;5277983;0,99
+2817;√â Preciso Saber Viver;225;1;4;Erasmo Carlos/Roberto Carlos;251115;8271418;0,99
+2818;Senhor Delegado/Eu N√£o Aguento;225;1;4;Antonio Lopes;156656;5277983;0,99
 2819;Battlestar Galactica: The Story So Far;226;3;18;NULL;2622250;490750393;1,99
 2820;Occupation / Precipice;227;3;19;NULL;5286953;1054423946;1,99
 2821;Exodus, Pt. 1;227;3;19;NULL;2621708;475079441;1,99
@@ -2898,7 +2898,7 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 2897;One of Them;231;3;21;NULL;2698791;542332389;1,99
 2898;Special;230;3;19;NULL;2618530;219961967;1,99
 2899;The Man from Tallahassee;229;3;21;NULL;2637637;550893556;1,99
-2900;ExposÈ;229;3;21;NULL;2593760;511338017;1,99
+2900;Expos√©;229;3;21;NULL;2593760;511338017;1,99
 2901;Homecoming;230;3;19;NULL;2515882;210675221;1,99
 2902;Maternity Leave;231;3;21;NULL;2780416;555244214;1,99
 2903;Left Behind;229;3;21;NULL;2635343;538491964;1,99
@@ -2916,7 +2916,7 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 2915;Do No Harm;230;3;19;NULL;2618487;212039309;1,99
 2916;Two for the Road;231;3;21;NULL;2610958;502404558;1,99
 2917;The Greater Good;230;3;19;NULL;2617784;214130273;1,99
-2918;"""?""";231;3;19;NULL;2782333;528227089;1,99
+2918;?;231;3;19;NULL;2782333;528227089;1,99
 2919;Born to Run;230;3;19;NULL;2618619;213772057;1,99
 2920;Three Minutes;231;3;19;NULL;2763666;531556853;1,99
 2921;Exodus (Part 1);230;3;19;NULL;2620747;213107744;1,99
@@ -3025,17 +3025,17 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 3024;Two Hearts Beat As One;239;1;1;U2;243487;7998323;0,99
 3025;Red Light;239;1;1;U2;225854;7453704;0,99
 3026;Surrender;239;1;1;U2;333505;11221406;0,99
-3027;"""40""";239;1;1;U2;157962;5251767;0,99
-3028;Zooropa;240;1;1;"U2; Bono";392359;12807979;0,99
-3029;Babyface;240;1;1;"U2; Bono";241998;7942573;0,99
-3030;Numb;240;1;1;"U2; Edge, The";260284;8577861;0,99
-3031;Lemon;240;1;1;"U2; Bono";418324;13988878;0,99
-3032;Stay (Faraway, So Close!);240;1;1;"U2; Bono";298475;9785480;0,99
-3033;Daddy's Gonna Pay For Your Crashed Car;240;1;1;"U2; Bono";320287;10609581;0,99
-3034;Some Days Are Better Than Others;240;1;1;"U2; Bono";257436;8417690;0,99
-3035;The First Time;240;1;1;"U2; Bono";225697;7247651;0,99
-3036;Dirty Day;240;1;1;"U2; Bono & Edge, The";324440;10652877;0,99
-3037;The Wanderer;240;1;1;"U2; Bono";283951;9258717;0,99
+3027;40;239;1;1;U2;157962;5251767;0,99
+3028;Zooropa;240;1;1;U2 Bono;392359;12807979;0,99
+3029;Babyface;240;1;1;U2 Bono;241998;7942573;0,99
+3030;Numb;240;1;1;U2 Edge, The;260284;8577861;0,99
+3031;Lemon;240;1;1;U2 Bono;418324;13988878;0,99
+3032;Stay (Faraway, So Close!);240;1;1;U2 Bono;298475;9785480;0,99
+3033;Daddy's Gonna Pay For Your Crashed Car;240;1;1;U2 Bono;320287;10609581;0,99
+3034;Some Days Are Better Than Others;240;1;1;U2 Bono;257436;8417690;0,99
+3035;The First Time;240;1;1;U2 Bono;225697;7247651;0,99
+3036;Dirty Day;240;1;1;U2 Bono & Edge, The;324440;10652877;0,99
+3037;The Wanderer;240;1;1;U2 Bono;283951;9258717;0,99
 3038;Breakfast In Bed;241;1;8;NULL;196179;6513325;0,99
 3039;Where Did I Go Wrong;241;1;8;NULL;226742;7485054;0,99
 3040;I Would Do For You;241;1;8;NULL;334524;11193602;0,99
@@ -3144,24 +3144,24 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 3143;Crying In The Rain;141;1;3;Coverdale;337005;10931921;0,99
 3144;Fool For Your Loving;141;1;3;Marsden/Moody;250801;8129820;0,99
 3145;Sweet Lady Luck;141;1;3;Vandenberg;273737;8919163;0,99
-3146;Faixa Amarela;248;1;7;Beto Gogo/JessÈ Pai/Luiz Carlos/Zeca Pagodinho;240692;8082036;0,99
-3147;Posso AtÈ Me Apaixonar;248;1;7;Dudu Nobre;200698;6735526;0,99
-3148;N„o Sou Mais Disso;248;1;7;Jorge Arag„o/Zeca Pagodinho;225985;7613817;0,99
+3146;Faixa Amarela;248;1;7;Beto Gogo/Jess√© Pai/Luiz Carlos/Zeca Pagodinho;240692;8082036;0,99
+3147;Posso At√© Me Apaixonar;248;1;7;Dudu Nobre;200698;6735526;0,99
+3148;N√£o Sou Mais Disso;248;1;7;Jorge Arag√£o/Zeca Pagodinho;225985;7613817;0,99
 3149;Vivo Isolado Do Mundo;248;1;7;Alcides Dias Lopes;180035;6073995;0,99
-3150;CoraÁ„o Em Desalinho;248;1;7;Mauro Diniz/Ratino Sigem;185208;6225948;0,99
-3151;Seu BalancÍ;248;1;7;Paulinho Rezende/Toninho Geraes;219454;7311219;0,99
-3152;Vai Adiar;248;1;7;Alcino CorrÍa/Monarco;270393;9134882;0,99
+3150;Cora√ß√£o Em Desalinho;248;1;7;Mauro Diniz/Ratino Sigem;185208;6225948;0,99
+3151;Seu Balanc√™;248;1;7;Paulinho Rezende/Toninho Geraes;219454;7311219;0,99
+3152;Vai Adiar;248;1;7;Alcino Corr√™a/Monarco;270393;9134882;0,99
 3153;Rugas;248;1;7;Augusto Garcez/Nelson Cavaquinho;140930;4703182;0,99
-3154;Feirinha da Pavuna/Luz do Repente/BagaÁo da Laranja;248;1;7;Arlindo Cruz/Franco/Marquinhos PQD/Negro, Jovelina PÈrolo/Zeca Pagodinho;107206;3593684;0,99
+3154;Feirinha da Pavuna/Luz do Repente/Baga√ßo da Laranja;248;1;7;Arlindo Cruz/Franco/Marquinhos PQD/Negro, Jovelina P√©rolo/Zeca Pagodinho;107206;3593684;0,99
 3155;Sem Essa de Malandro Agulha;248;1;7;Aldir Blanc/Jayme Vignoli;158484;5332668;0,99
-3156;Chico N„o Vai na Corimba;248;1;7;Dudu Nobre/Zeca Pagodinho;269374;9122188;0,99
-3157;Papel Principal;248;1;7;Almir Guineto/DedÈ Paraiso/Luverci Ernesto;217495;7325302;0,99
+3156;Chico N√£o Vai na Corimba;248;1;7;Dudu Nobre/Zeca Pagodinho;269374;9122188;0,99
+3157;Papel Principal;248;1;7;Almir Guineto/Ded√© Paraiso/Luverci Ernesto;217495;7325302;0,99
 3158;Saudade Louca;248;1;7;Acyr Marques/Arlindo Cruz/Franco;243591;8136475;0,99
-3159;Camar„o que Dorme e Onda Leva;248;1;7;Acyi Marques/Arlindo Bruz/BraÁo, Beto Sem/Zeca Pagodinho;299102;10012231;0,99
+3159;Camar√£o que Dorme e Onda Leva;248;1;7;Acyi Marques/Arlindo Bruz/Bra√ßo, Beto Sem/Zeca Pagodinho;299102;10012231;0,99
 3160;Sapopemba e Maxambomba;248;1;7;Nei Lopes/Wilson Moreira;245394;8268712;0,99
-3161;Minha FÈ;248;1;7;Muril„o;206994;6981474;0,99
+3161;Minha F√©;248;1;7;Muril√£o;206994;6981474;0,99
 3162;Lua de Ogum;248;1;7;Ratinho/Zeca Pagodinho;168463;5719129;0,99
-3163;Samba pras moÁas;248;1;7;Grazielle/Roque Ferreira;152816;5121366;0,99
+3163;Samba pras mo√ßas;248;1;7;Grazielle/Roque Ferreira;152816;5121366;0,99
 3164;Verdade;248;1;7;Carlinhos Santana/Nelson Rufino;332826;11120708;0,99
 3165;The Brig;229;3;21;NULL;2617325;488919543;1,99
 3166;.07%;228;3;21;NULL;2585794;541715199;1,99
@@ -3349,15 +3349,15 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 3348;The Shape of Things to Come;261;3;21;NULL;2591299;502284266;1,99
 3349;Amanda;262;5;2;Luca Gusella;246503;4011615;0,99
 3350;Despertar;262;5;2;Andrea Dulbecco;307385;4821485;0,99
-3351;Din Din Wo (Little Child);263;5;16;Habib KoitÈ;285837;4615841;0,99
+3351;Din Din Wo (Little Child);263;5;16;Habib Koit√©;285837;4615841;0,99
 3352;Distance;264;5;15;Karsh Kale/Vishal Vaid;327122;5327463;0,99
-3353;I Guess You're Right;265;5;1;"Darius ""Take One"" Minwalla/Jon Auer/Ken Stringfellow/Matt Harris";212044;3453849;0,99
-3354;I Ka Barra (Your Work);263;5;16;Habib KoitÈ;300605;4855457;0,99
-3355;Love Comes;265;5;1;"Darius ""Take One"" Minwalla/Jon Auer/Ken Stringfellow/Matt Harris";199923;3240609;0,99
+3353;I Guess You're Right;265;5;1;Darius Take One Minwalla/Jon Auer/Ken Stringfellow/Matt Harris;212044;3453849;0,99
+3354;I Ka Barra (Your Work);263;5;16;Habib Koit√©;300605;4855457;0,99
+3355;Love Comes;265;5;1;Darius Take One Minwalla/Jon Auer/Ken Stringfellow/Matt Harris;199923;3240609;0,99
 3356;Muita Bobeira;266;5;7;Luciana Souza;172710;2775071;0,99
 3357;OAM's Blues;267;5;2;Aaron Goldberg;266936;4292028;0,99
 3358;One Step Beyond;264;5;15;Karsh Kale;366085;6034098;0,99
-3359;"Symphony No. 3 in E-flat major, Op. 55, ""Eroica"" - Scherzo: Allegro Vivace";268;5;24;Ludwig van Beethoven;356426;5817216;0,99
+3359;Symphony No. 3 in E-flat major, Op. 55, Eroica - Scherzo: Allegro Vivace;268;5;24;Ludwig van Beethoven;356426;5817216;0,99
 3360;Something Nice Back Home;261;3;21;NULL;2612779;484711353;1,99
 3361;Cabin Fever;261;3;21;NULL;2612028;477733942;1,99
 3362;There's No Place Like Home, Pt. 1;261;3;21;NULL;2609526;522919189;1,99
@@ -3400,27 +3400,27 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 3399;Nothing Left to Say But Goodbye;271;2;23;NULL;213041;3484335;0,99
 3400;Moth;271;2;23;NULL;298049;4838884;0,99
 3401;Show Me How to Live (Live at the Quart Festival);271;2;23;NULL;301974;4901540;0,99
-3402;"Band Members Discuss Tracks from ""Revelations""";271;3;23;NULL;294294;61118891;0,99
+3402;Band Members Discuss Tracks from Revelations;271;3;23;NULL;294294;61118891;0,99
 3403;Intoitus: Adorate Deum;272;2;24;Anonymous;245317;4123531;0,99
 3404;Miserere mei, Deus;273;2;24;Gregorio Allegri;501503;8285941;0,99
 3405;Canon and Gigue in D Major: I. Canon;274;2;24;Johann Pachelbel;271788;4438393;0,99
-3406;"Concerto No. 1 in E Major, RV 269 ""Spring"": I. Allegro";275;2;24;Antonio Vivaldi;199086;3347810;0,99
+3406;Concerto No. 1 in E Major, RV 269 Spring: I. Allegro;275;2;24;Antonio Vivaldi;199086;3347810;0,99
 3407;Concerto for 2 Violins in D Minor, BWV 1043: I. Vivace;276;2;24;Johann Sebastian Bach;193722;3192890;0,99
-3408;"Aria Mit 30 Ver‰nderungen, BWV 988 ""Goldberg Variations"": Aria";277;2;24;Johann Sebastian Bach;120463;2081895;0,99
-3409;Suite for Solo Cello No. 1 in G Major, BWV 1007: I. PrÈlude;278;2;24;Johann Sebastian Bach;143288;2315495;0,99
+3408;Aria Mit 30 Ver√§nderungen, BWV 988 Goldberg Variations: Aria;277;2;24;Johann Sebastian Bach;120463;2081895;0,99
+3409;Suite for Solo Cello No. 1 in G Major, BWV 1007: I. Pr√©lude;278;2;24;Johann Sebastian Bach;143288;2315495;0,99
 3410;The Messiah: Behold, I Tell You a Mystery... The Trumpet Shall Sound;279;2;24;George Frideric Handel;582029;9553140;0,99
 3411;Solomon HWV 67: The Arrival of the Queen of Sheba;280;2;24;George Frideric Handel;197135;3247914;0,99
-3412;"""Eine Kleine Nachtmusik"" Serenade In G, K. 525: I. Allegro";281;2;24;Wolfgang Amadeus Mozart;348971;5760129;0,99
+3412;Eine Kleine Nachtmusik Serenade In G, K. 525: I. Allegro;281;2;24;Wolfgang Amadeus Mozart;348971;5760129;0,99
 3413;Concerto for Clarinet in A Major, K. 622: II. Adagio;282;2;24;Wolfgang Amadeus Mozart;394482;6474980;0,99
-3414;"Symphony No. 104 in D Major ""London"": IV. Finale: Spiritoso";283;4;24;Franz Joseph Haydn;306687;10085867;0,99
+3414;Symphony No. 104 in D Major London: IV. Finale: Spiritoso;283;4;24;Franz Joseph Haydn;306687;10085867;0,99
 3415;Symphony No.5 in C Minor: I. Allegro con brio;284;2;24;Ludwig van Beethoven;392462;6419730;0,99
 3416;Ave Maria;285;2;24;Franz Schubert;338243;5605648;0,99
-3417;"Nabucco: Chorus, ""Va, Pensiero, Sull'ali Dorate""";286;2;24;Giuseppe Verdi;274504;4498583;0,99
-3418;Die Walk¸re: The Ride of the Valkyries;287;2;24;Richard Wagner;189008;3114209;0,99
-3419;Requiem, Op.48: 4. Pie Jesu;288;2;24;Gabriel FaurÈ;258924;4314850;0,99
+3417;Nabucco: Chorus, Va, Pensiero, Sull'ali Dorate;286;2;24;Giuseppe Verdi;274504;4498583;0,99
+3418;Die Walk√ºre: The Ride of the Valkyries;287;2;24;Richard Wagner;189008;3114209;0,99
+3419;Requiem, Op.48: 4. Pie Jesu;288;2;24;Gabriel Faur√©;258924;4314850;0,99
 3420;The Nutcracker, Op. 71a, Act II: Scene 14: Pas de deux: Dance of the Prince & the Sugar-Plum Fairy;289;2;24;Peter Ilyich Tchaikovsky;304226;5184289;0,99
-3421;"Nimrod (Adagio) from Variations On an Original Theme, Op. 36 ""Enigma""";290;2;24;Edward Elgar;250031;4124707;0,99
-3422;Madama Butterfly: Un Bel DÏ Vedremo;291;2;24;Giacomo Puccini;277639;4588197;0,99
+3421;Nimrod (Adagio) from Variations On an Original Theme, Op. 36 Enigma;290;2;24;Edward Elgar;250031;4124707;0,99
+3422;Madama Butterfly: Un Bel D√¨ Vedremo;291;2;24;Giacomo Puccini;277639;4588197;0,99
 3423;Jupiter, the Bringer of Jollity;292;2;24;Gustav Holst;522099;8547876;0,99
 3424;Turandot, Act III, Nessun dorma!;293;2;24;Giacomo Puccini;176911;2920890;0,99
 3425;Adagio for Strings from the String Quartet, Op. 11;294;2;24;Samuel Barber;596519;9585597;0,99
@@ -3429,13 +3429,13 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 3428;Branch Closing;251;3;22;NULL;1814855;360331351;1,99
 3429;The Return;251;3;22;NULL;1705080;343877320;1,99
 3430;Toccata and Fugue in D Minor, BWV 565: I. Toccata;297;2;24;Johann Sebastian Bach;153901;2649938;0,99
-3431;"Symphony No.1 in D Major, Op.25 ""Classical"", Allegro Con Brio";298;2;24;Sergei Prokofiev;254001;4195542;0,99
+3431;Symphony No.1 in D Major, Op.25 Classical, Allegro Con Brio;298;2;24;Sergei Prokofiev;254001;4195542;0,99
 3432;Scheherazade, Op. 35: I. The Sea and Sindbad's Ship;299;2;24;Nikolai Rimsky-Korsakov;545203;8916313;0,99
 3433;Concerto No.2 in F Major, BWV1047, I. Allegro;300;2;24;Johann Sebastian Bach;307244;5064553;0,99
-3434;Concerto for Piano No. 2 in F Minor, Op. 21: II. Larghetto;301;2;24;FrÈdÈric Chopin;560342;9160082;0,99
+3434;Concerto for Piano No. 2 in F Minor, Op. 21: II. Larghetto;301;2;24;Fr√©d√©ric Chopin;560342;9160082;0,99
 3435;Cavalleria Rusticana \ Act \ Intermezzo Sinfonico;302;2;24;Pietro Mascagni;243436;4001276;0,99
 3436;Karelia Suite, Op.11: 2. Ballade (Tempo Di Menuetto);303;2;24;Jean Sibelius;406000;5908455;0,99
-3437;"Piano Sonata No. 14 in C Sharp Minor, Op. 27, No. 2, ""Moonlight"": I. Adagio sostenuto";304;2;24;Ludwig van Beethoven;391000;6318740;0,99
+3437;Piano Sonata No. 14 in C Sharp Minor, Op. 27, No. 2, Moonlight: I. Adagio sostenuto;304;2;24;Ludwig van Beethoven;391000;6318740;0,99
 3438;Fantasia On Greensleeves;280;2;24;Ralph Vaughan Williams;268066;4513190;0,99
 3439;Das Lied Von Der Erde, Von Der Jugend;305;2;24;Gustav Mahler;223583;3700206;0,99
 3440;Concerto for Cello and Orchestra in E minor, Op. 85: I. Adagio - Moderato;306;2;24;Edward Elgar;483133;7865479;0,99
@@ -3447,12 +3447,12 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 3446;Symphonie Fantastique, Op. 14: V. Songe d'une nuit du sabbat;312;2;24;Hector Berlioz;561967;9173344;0,99
 3447;Carmen: Overture;313;2;24;Georges Bizet;132932;2189002;0,99
 3448;Lamentations of Jeremiah, First Set \ Incipit Lamentatio;314;2;24;Thomas Tallis;69194;1208080;0,99
-3449;Music for the Royal Fireworks, HWV351 (1749): La RÈjouissance;315;2;24;George Frideric Handel;120000;2193734;0,99
+3449;Music for the Royal Fireworks, HWV351 (1749): La R√©jouissance;315;2;24;George Frideric Handel;120000;2193734;0,99
 3450;Peer Gynt Suite No.1, Op.46: 1. Morning Mood;316;2;24;Edvard Grieg;253422;4298769;0,99
-3451;"Die Zauberflˆte, K.620: ""Der Hˆlle Rache Kocht in Meinem Herze""";317;2;25;Wolfgang Amadeus Mozart;174813;2861468;0,99
+3451;Die Zauberfl√∂te, K.620: Der H√∂lle Rache Kocht in Meinem Herze;317;2;25;Wolfgang Amadeus Mozart;174813;2861468;0,99
 3452;SCRIABIN: Prelude in B Major, Op. 11, No. 11;318;4;24;NULL;101293;3819535;0,99
 3453;Pavan, Lachrimae Antiquae;319;2;24;John Dowland;253281;4211495;0,99
-3454;"Symphony No. 41 in C Major, K. 551, ""Jupiter"": IV. Molto allegro";320;2;24;Wolfgang Amadeus Mozart;362933;6173269;0,99
+3454;Symphony No. 41 in C Major, K. 551, Jupiter: IV. Molto allegro;320;2;24;Wolfgang Amadeus Mozart;362933;6173269;0,99
 3455;Rehab;321;2;14;NULL;213240;3416878;0,99
 3456;You Know I'm No Good;321;2;14;NULL;256946;4133694;0,99
 3457;Me & Mr. Jones;321;2;14;NULL;151706;2449438;0,99
@@ -3473,32 +3473,32 @@ TrackId;Name;AlbumId;MediaTypeId;GenreId;Composer;Milliseconds;Bytes;UnitPrice
 3472;In My Bed;322;2;9;Salaam Remi;315960;5211774;0,99
 3473;Take the Box;322;2;9;Luke Smith;199160;3281526;0,99
 3474;October Song;322;2;9;Matt Rowe & Stefan Skarbek;204846;3358125;0,99
-3475;What Is It About Men;322;2;9;"Delroy ""Chris"" Cooper, Donovan Jackson, Earl Chinna Smith, Felix Howard, Gordon Williams, Luke Smith, Paul Watson & Wilburn Squiddley Cole";209573;3426106;0,99
+3475;What Is It About Men;322;2;9;Delroy Chris Cooper, Donovan Jackson, Earl Chinna Smith, Felix Howard, Gordon Williams, Luke Smith, Paul Watson & Wilburn Squiddley Cole;209573;3426106;0,99
 3476;Help Yourself;322;2;9;Freddy James, Jimmy hogarth & Larry Stock;300884;5029266;0,99
-3477;Amy Amy Amy (Outro);322;2;9;"Astor Campbell, Delroy ""Chris"" Cooper, Donovan Jackson, Dorothy Fields, Earl Chinna Smith, Felix Howard, Gordon Williams, James Moody, Jimmy McHugh, Matt Rowe, Salaam Remi & Stefan Skarbek";663426;10564704;0,99
+3477;Amy Amy Amy (Outro);322;2;9;Astor Campbell, Delroy Chris Cooper, Donovan Jackson, Dorothy Fields, Earl Chinna Smith, Felix Howard, Gordon Williams, James Moody, Jimmy McHugh, Matt Rowe, Salaam Remi & Stefan Skarbek;663426;10564704;0,99
 3478;Slowness;323;2;23;NULL;215386;3644793;0,99
 3479;Prometheus Overture, Op. 43;324;4;24;Ludwig van Beethoven;339567;10887931;0,99
-3480;Sonata for Solo Violin: IV: Presto;325;4;24;BÈla BartÛk;299350;9785346;0,99
+3480;Sonata for Solo Violin: IV: Presto;325;4;24;B√©la Bart√≥k;299350;9785346;0,99
 3481;A Midsummer Night's Dream, Op.61 Incidental Music: No.7 Notturno;326;2;24;NULL;387826;6497867;0,99
 3482;Suite No. 3 in D, BWV 1068: III. Gavotte I & II;327;2;24;Johann Sebastian Bach;225933;3847164;0,99
 3483;Concert pour 4 Parties de V**les, H. 545: I. Prelude;328;2;24;Marc-Antoine Charpentier;110266;1973559;0,99
 3484;Adios nonino;329;2;24;Astor Piazzolla;289388;4781384;0,99
-3485;"Symphony No. 3 Op. 36 for Orchestra and Soprano ""Symfonia Piesni Zalosnych"" \ Lento E Largo - Tranquillissimo";330;2;24;Henryk GÛrecki;567494;9273123;0,99
+3485;Symphony No. 3 Op. 36 for Orchestra and Soprano Symfonia Piesni Zalosnych \ Lento E Largo - Tranquillissimo;330;2;24;Henryk G√≥recki;567494;9273123;0,99
 3486;Act IV, Symphony;331;2;24;Henry Purcell;364296;5987695;0,99
-3487;3 GymnopÈdies: No.1 - Lent Et Grave, No.3 - Lent Et Douloureux;332;2;24;Erik Satie;385506;6458501;0,99
-3488;"Music for the Funeral of Queen Mary: VI. ""Thou Knowest, Lord, the Secrets of Our Hearts""";333;2;24;Henry Purcell;142081;2365930;0,99
+3487;3 Gymnop√©dies: No.1 - Lent Et Grave, No.3 - Lent Et Douloureux;332;2;24;Erik Satie;385506;6458501;0,99
+3488;Music for the Funeral of Queen Mary: VI. Thou Knowest, Lord, the Secrets of Our Hearts;333;2;24;Henry Purcell;142081;2365930;0,99
 3489;Symphony No. 2: III. Allegro vivace;334;2;24;Kurt Weill;376510;6129146;0,99
 3490;Partita in E Major, BWV 1006A: I. Prelude;335;2;24;Johann Sebastian Bach;285673;4744929;0,99
 3491;Le Sacre Du Printemps: I.iv. Spring Rounds;336;2;24;Igor Stravinsky;234746;4072205;0,99
 3492;Sing Joyfully;314;2;24;William Byrd;133768;2256484;0,99
 3493;Metopes, Op. 29: Calypso;337;2;24;Karol Szymanowski;333669;5548755;0,99
-3494;"Symphony No. 2, Op. 16 - †""The Four Temperaments"": II. Allegro Comodo e Flemmatico";338;2;24;Carl Nielsen;286998;4834785;0,99
-3495;24 Caprices, Op. 1, No. 24, for Solo Violin, in A Minor;339;2;24;NiccolÚ Paganini;265541;4371533;0,99
-3496;…tude 1, In C Major - Preludio (Presto) - Liszt;340;4;24;NULL;51780;2229617;0,99
+3494;Symphony No. 2, Op. 16 - ¬†The Four Temperaments: II. Allegro Comodo e Flemmatico;338;2;24;Carl Nielsen;286998;4834785;0,99
+3495;24 Caprices, Op. 1, No. 24, for Solo Violin, in A Minor;339;2;24;Niccol√≤ Paganini;265541;4371533;0,99
+3496;√âtude 1, In C Major - Preludio (Presto) - Liszt;340;4;24;NULL;51780;2229617;0,99
 3497;Erlkonig, D.328;341;2;24;NULL;261849;4307907;0,99
 3498;Concerto for Violin, Strings and Continuo in G Major, Op. 3, No. 9: I. Allegro;342;4;24;Pietro Antonio Locatelli;493573;16454937;0,99
 3499;Pini Di Roma (Pinien Von Rom) \ I Pini Della Via Appia;343;2;24;NULL;286741;4718950;0,99
-3500;"String Quartet No. 12 in C Minor, D. 703 ""Quartettsatz"": II. Andante - Allegro assai";344;2;24;Franz Schubert;139200;2283131;0,99
+3500;String Quartet No. 12 in C Minor, D. 703 Quartettsatz: II. Andante - Allegro assai;344;2;24;Franz Schubert;139200;2283131;0,99
 3501;L'orfeo, Act 3, Sinfonia (Orchestra);345;2;24;Claudio Monteverdi;66639;1189062;0,99
 3502;Quintet for Horn, Violin, 2 Violas, and Cello in E Flat Major, K. 407/386c: III. Allegro;346;2;24;Wolfgang Amadeus Mozart;221331;3665114;0,99
 3503;Koyaanisqatsi;347;2;10;Philip Glass;206005;3305164;0,99
