@@ -1,6 +1,9 @@
 ﻿
 namespace Chinook.Contracts.Report.Marketing
 {
+    /// <summary>
+    /// Album-Statistik
+    /// </summary>
     public interface IAlbumStatistic
     {
         string MinTitle { get; }

@@ -2,7 +2,7 @@
 
 namespace Chinook.Report.Marketing.Models
 {
-    class AlbumStatistic : Contracts.Report.Marketing.IAlbumStatistic
+    internal class AlbumStatistic : Contracts.Report.Marketing.IAlbumStatistic
     {
         public string MinTitle { get; set; }
 
